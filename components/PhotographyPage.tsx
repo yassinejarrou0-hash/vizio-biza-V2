@@ -335,7 +335,7 @@ export default function PhotographyPage({ content, settings, contact }: { conten
       <Newsletter />
       <Footer settings={settings} />
       <WhatsAppFloat settings={settings} />
-      <ReviewModal open={reviewModal} onClose={() => setReviewModal(false)} onSubmit={handleNewReview} />
+      <ReviewModal open={reviewModal} kind="photo" onClose={() => setReviewModal(false)} onSubmit={handleNewReview} />
     </>
   );
 }

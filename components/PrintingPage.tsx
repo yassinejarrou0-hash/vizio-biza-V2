@@ -328,7 +328,7 @@ export default function PrintingPage({ content, settings, contact }: { content: 
       <Newsletter />
       <Footer settings={settings} />
       <WhatsAppFloat settings={settings} />
-      <ReviewModal open={reviewModal} onClose={() => setReviewModal(false)} onSubmit={handleNewReview} />
+      <ReviewModal open={reviewModal} kind="print" onClose={() => setReviewModal(false)} onSubmit={handleNewReview} />
     </>
   );
 }
