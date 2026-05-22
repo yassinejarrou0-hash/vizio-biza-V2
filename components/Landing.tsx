@@ -154,6 +154,11 @@ export default function Landing({ landing, settings }: { landing: LandingConfig;
           <div className="p-noise"></div>
           <div className="p-content">
             <h2 className="p-title">{landing.print.title}<br />{landing.print.titleLine2}</h2>
+            <div className="p-typed-wrap">
+              <span className="p-typed-label">—</span>
+              <span className="p-typed-word" ref={printRef}></span>
+              <span className="p-typed-cursor"></span>
+            </div>
             <button className="p-btn" onClick={(e) => { e.stopPropagation(); goTo(landing.print.href); }}>{landing.print.btnLabel}</button>
           </div>
           <div className="p-line"></div>
@@ -170,6 +175,11 @@ export default function Landing({ landing, settings }: { landing: LandingConfig;
           <div className="p-noise"></div>
           <div className="p-content">
             <h2 className="p-title">{landing.photo.title}<br />{landing.photo.titleLine2}</h2>
+            <div className="p-typed-wrap">
+              <span className="p-typed-label">—</span>
+              <span className="p-typed-word" ref={photoRef}></span>
+              <span className="p-typed-cursor"></span>
+            </div>
             <button className="p-btn" onClick={(e) => { e.stopPropagation(); goTo(landing.photo.href); }}>{landing.photo.btnLabel}</button>
           </div>
           <div className="p-line"></div>

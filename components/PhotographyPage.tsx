@@ -124,9 +124,6 @@ export default function PhotographyPage({ content, settings, contact }: { conten
                 <img src={s.mediaSrc} alt={s.mediaAlt} loading={i === 0 ? "eager" : "lazy"} />
               </div>
             ))}
-            <div className="hero-tags-overlay">
-              <span>Portrait</span><span>Mariage</span><span>Vidéo</span><span>Produit</span><span>Administrative</span>
-            </div>
             <div className="hero-dots">
               {PHOTO_HERO_SLIDES.map((_, i) => (
                 <button key={i} className={`hero-dot${i === activeSlide ? " is-active" : ""}`} onClick={() => goToSlide(i)} aria-label={`Slide ${i + 1}`} />

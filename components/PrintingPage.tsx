@@ -131,9 +131,6 @@ export default function PrintingPage({ content, settings, contact }: { content: 
                 )}
               </div>
             ))}
-            <div className="hero-tags-overlay">
-              <span>Photo</span><span>Sublimation</span><span>Marketing</span><span>Stickers</span><span>Grand Format</span>
-            </div>
             <div className="hero-dots">
               {PRINT_HERO_SLIDES.map((_, i) => (
                 <button key={i} className={`hero-dot${i === activeSlide ? " is-active" : ""}`} onClick={() => goToSlide(i)} aria-label={`Slide ${i + 1}`} />
