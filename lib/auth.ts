@@ -7,14 +7,14 @@ const SESSION_TTL_MS = 7 * 24 * 60 * 60 * 1000;
 
 function getSecret(): string {
   return (
-    process.env.ADMIN_SECRET ||
-    process.env.ADMIN_PASSWORD ||
+    process.env.NEXT_PUBLIC_ADMIN_SECRET ||
+    process.env.NEXT_PUBLIC_ADMIN_PASSWORD ||
     "dev-secret-change-me"
   );
 }
 
 function getPassword(): string {
-  return process.env.ADMIN_PASSWORD || "admin";
+  return process.env.NEXT_PUBLIC_ADMIN_PASSWORD || "admin";
 }
 
 function sign(payload: string): string {
