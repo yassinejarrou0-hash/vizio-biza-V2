@@ -1,8 +1,3 @@
 {
-  "regions": ["cdg1"],
-  "functions": {
-    "app/api/**": {
-      "maxDuration": 10
-    }
-  }
+  "regions": ["cdg1"]
 }
