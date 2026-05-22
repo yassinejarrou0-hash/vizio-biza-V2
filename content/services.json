@@ -1,0 +1,3014 @@
+[
+  {
+    "slug": "impression-offset",
+    "title": "Impression Offset à Agadir — Grand Tirage Professionnel",
+    "metaDescription": "Découvrez l'impression offset professionnelle à Agadir. Vizio Biza Studio offre des tirages grand volume en quadrichromie CMJN et Pantone, sur papiers certifiés FSC.",
+    "ogImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742095/af55122df7f0a7d9ebb2c2b4bbc0e35e_d6bvbc.jpg",
+    "heroImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742095/af55122df7f0a7d9ebb2c2b4bbc0e35e_d6bvbc.jpg",
+    "heroTitle": "Impression Offset à Agadir :",
+    "heroTitleItalic": "Grand Tirage de Qualité Supérieure",
+    "heroSubtitle": "Catalogues, brochures, affiches et supports corporate — impression offset professionnelle CMJN & Pantone à Agadir pour tous vos grands tirages.",
+    "tag": "Impression Offset",
+    "tagIcon": "fa-solid fa-newspaper",
+    "category": "impression",
+    "variant": "light",
+    "parentPath": "/impression",
+    "parentLabel": "Services d'Impression",
+    "readTime": "7 min de lecture",
+    "light": {
+      "stamp": {
+        "value": "500+",
+        "label": "Ex. min. offset"
+      },
+      "bullets": [
+        {
+          "icon": "fa-solid fa-palette",
+          "label": "Couleurs Pantone & CMJN"
+        },
+        {
+          "icon": "fa-solid fa-layer-group",
+          "label": "Grands tirages"
+        },
+        {
+          "icon": "fa-solid fa-wand-magic-sparkles",
+          "label": "Finitions premium"
+        }
+      ],
+      "subsTitle": "Nos supports en impression offset",
+      "subsSubtitle": "Du catalogue luxe à l'affiche grand format — des résultats irréprochables sur tous vos supports.",
+      "subs": [
+        {
+          "icon": "fa-solid fa-book-open",
+          "title": "Catalogues & Brochures",
+          "description": "Rendu photographique parfait pour catalogues produits et brochures commerciales multi-pages."
+        },
+        {
+          "icon": "fa-solid fa-image",
+          "title": "Affiches & Posters",
+          "description": "Du A3 au B1, couleurs vives et détail net pour vos campagnes publicitaires intérieur/extérieur."
+        },
+        {
+          "icon": "fa-solid fa-id-card",
+          "title": "Cartes de visite premium",
+          "description": "Supports corporate sur papiers sélectionnés avec fidélité chromatique parfaite."
+        },
+        {
+          "icon": "fa-solid fa-newspaper",
+          "title": "Magazines & Journaux",
+          "description": "Impression de périodiques, newsletters et supports de presse à tirage élevé."
+        },
+        {
+          "icon": "fa-solid fa-envelope-open-text",
+          "title": "Flyers & Dépliants",
+          "description": "Flyers A5/A4, dépliants 3 volets et formats personnalisés en quadrichromie."
+        },
+        {
+          "icon": "fa-solid fa-box-open",
+          "title": "Supports packaging",
+          "description": "Couvertures de boîtes et étuis en carton imprimés offset avec finitions UV."
+        }
+      ],
+      "whyTitle": "Pourquoi choisir l'offset",
+      "whyItems": [
+        {
+          "icon": "fa-solid fa-palette",
+          "title": "Fidélité chromatique",
+          "description": "Couleurs Pantone et CMJN calibrées avec précision — identiques du premier au dernier exemplaire."
+        },
+        {
+          "icon": "fa-solid fa-chart-line",
+          "title": "Coût dégressif",
+          "description": "Plus le tirage est important, plus le coût unitaire diminue — optimal pour les grands volumes."
+        },
+        {
+          "icon": "fa-solid fa-leaf",
+          "title": "Papiers certifiés FSC",
+          "description": "Large choix de papiers couchés, non couchés, recyclés et cartons certifiés FSC & PEFC."
+        },
+        {
+          "icon": "fa-solid fa-wand-magic-sparkles",
+          "title": "Finitions luxe",
+          "description": "Vernis UV sélectif, pelliculage soft-touch, dorure à chaud et découpe laser sur demande."
+        }
+      ],
+      "relatedTitle": "Autres services d'impression",
+      "relatedItems": [
+        {
+          "slug": "impression-numerique",
+          "title": "Impression Numérique",
+          "description": "Petits tirages haute qualité dès 1 exemplaire",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742300/ac9cb72b62aff6de569bd791e075cc4e_qp32ou.jpg"
+        },
+        {
+          "slug": "impression-packaging",
+          "title": "Impression Packaging",
+          "description": "Emballages sur mesure qui valorisent votre marque",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734202/dfed239add565f4bfabc3f5ddc45336d_aank9h.webp"
+        },
+        {
+          "slug": "finition-personnalisee",
+          "title": "Finition Personnalisée",
+          "description": "Vernis UV, pelliculage & dorure à chaud",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg"
+        }
+      ],
+      "ctaTitle": "Prêt à lancer votre",
+      "ctaTitleItalic": "tirage offset ?",
+      "ctaSubtitle": "Obtenez un devis personnalisé pour votre projet d'impression à Agadir. Réponse sous 24h."
+    },
+    "article": {
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Qu'est-ce que l'impression offset ?"
+        },
+        {
+          "type": "p",
+          "html": "L'<strong>impression offset</strong> est la technique reine pour les <strong>grands tirages professionnels</strong>. Elle repose sur le transfert d'une image d'une plaque métallique vers un cylindre de caoutchouc (blanchet), puis sur le support d'impression. Ce procédé indirect — d'où son nom — garantit une <strong>fidélité des couleurs</strong> et une netteté exceptionnelles, même sur des tirages de plusieurs milliers d'exemplaires."
+        },
+        {
+          "type": "p",
+          "html": "À Agadir et dans tout le Maroc, <strong>Vizio Biza Studio</strong> utilise des presses offset de dernière génération pour produire catalogues, brochures, magazines, affiches et tous supports nécessitant un rendu premium à grande échelle."
+        },
+        {
+          "type": "highlight",
+          "html": "<strong>Pourquoi choisir l'offset ?</strong> — L'impression offset offre le coût unitaire le plus bas pour les grands tirages, une gamme chromatique étendue grâce aux couleurs Pantone, et une qualité constante sur l'ensemble du tirage, du premier au dernier exemplaire."
+        },
+        {
+          "type": "h2",
+          "text": "Les avantages de l'impression offset pour vos projets"
+        },
+        {
+          "type": "p",
+          "html": "Pour toute entreprise souhaitant valoriser ses supports de communication à Agadir ou au Maroc, l'impression offset présente des atouts incomparables :"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Qualité chromatique irréprochable</strong> — reproduction exacte des couleurs Pantone et quadrichromie CMJN avec une précision de calibration professionnelle.",
+            "<strong>Coût dégressif</strong> — plus le tirage est important, plus le coût unitaire diminue, rendant l'offset économiquement optimal pour les volumes.",
+            "<strong>Large choix de supports</strong> — papiers couchés, non couchés, recyclés, cartons et matières spéciales.",
+            "<strong>Finitions premium</strong> — compatibilité parfaite avec le vernis UV, pelliculage, dorure à chaud et découpe laser.",
+            "<strong>Rendus spéciaux</strong> — encres métallisées, fluorescentes, blancs opaques sur supports sombres."
+          ]
+        },
+        {
+          "type": "image",
+          "src": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775743029/download-F61BdX6V9bJjtZInVIGul905d0E_2_1_2_1_1_1_bxhar8.gif",
+          "alt": "Atelier d'impression Vizio Biza Studio Agadir",
+          "caption": "Notre atelier d'impression à Agadir — technologie offset de dernière génération"
+        },
+        {
+          "type": "h2",
+          "text": "Nos spécifications techniques en impression offset"
+        },
+        {
+          "type": "specs",
+          "items": [
+            {
+              "icon": "fa-solid fa-layer-group",
+              "title": "Tirage minimum",
+              "value": "À partir de 500 exemplaires"
+            },
+            {
+              "icon": "fa-solid fa-palette",
+              "title": "Chromie",
+              "value": "4 couleurs CMJN + Pantone"
+            },
+            {
+              "icon": "fa-solid fa-expand",
+              "title": "Formats",
+              "value": "A6 au B1 & formats libres"
+            },
+            {
+              "icon": "fa-solid fa-leaf",
+              "title": "Papiers",
+              "value": "Certifiés FSC & PEFC"
+            },
+            {
+              "icon": "fa-solid fa-clock",
+              "title": "Délai standard",
+              "value": "5 à 7 jours ouvrables"
+            },
+            {
+              "icon": "fa-solid fa-file-pdf",
+              "title": "Format fichier",
+              "value": "PDF/X-4 haute résolution"
+            }
+          ]
+        },
+        {
+          "type": "h2",
+          "text": "Supports imprimés en offset chez Vizio Biza Studio"
+        },
+        {
+          "type": "h3",
+          "text": "Catalogues & Brochures"
+        },
+        {
+          "type": "p",
+          "html": "Nos presses offset produisent des <strong>catalogues produits et brochures commerciales</strong> avec un rendu photographique parfait. Idéal pour les entreprises de distribution, l'hôtellerie et le tourisme à Agadir."
+        },
+        {
+          "type": "h3",
+          "text": "Affiches & Posters grand format"
+        },
+        {
+          "type": "p",
+          "html": "De l'affiche A3 au grand format B1, l'impression offset garantit des <strong>couleurs vives et un détail net</strong> pour vos campagnes publicitaires en intérieur et extérieur au Maroc."
+        },
+        {
+          "type": "h3",
+          "text": "Supports corporate"
+        },
+        {
+          "type": "p",
+          "html": "Cartes de visite premium, en-têtes de lettre, dossiers de présentation — tous imprimés avec le soin d'une <strong>imprimerie professionnelle à Agadir</strong> qui respecte votre charte graphique à la lettre."
+        },
+        {
+          "type": "h2",
+          "text": "Préparer vos fichiers pour l'impression offset"
+        },
+        {
+          "type": "p",
+          "html": "Pour garantir un résultat parfait, vos fichiers doivent respecter quelques règles techniques essentielles :"
+        },
+        {
+          "type": "ol",
+          "items": [
+            "<strong>Résolution minimum 300 dpi</strong> pour toutes les images",
+            "<strong>Mode colorimétrique CMJN</strong> (pas RVB)",
+            "<strong>Fonds perdus de 3 mm</strong> sur chaque côté",
+            "<strong>Polices incorporées</strong> ou vectorisées dans le fichier",
+            "<strong>Format PDF/X-4</strong> recommandé pour l'envoi"
+          ]
+        },
+        {
+          "type": "p",
+          "html": "Notre équipe technique à Agadir effectue une <strong>vérification du fichier (preflight)</strong> avant toute mise en production, et vous transmet un BAT digital pour validation."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Quel est le tirage minimum pour l'impression offset à Agadir ?",
+          "a": "L'impression offset devient économiquement avantageuse à partir de <strong>500 exemplaires</strong>. En dessous de ce seuil, nous recommandons l'impression numérique qui offre la même qualité pour les petites séries."
+        },
+        {
+          "q": "Quels formats puis-je imprimer en offset chez Vizio Biza ?",
+          "a": "Nous imprimons du <strong>format A6 au B1</strong>, ainsi que tous les formats personnalisés. Contactez-nous pour un devis sur vos formats spécifiques."
+        },
+        {
+          "q": "Quels sont les délais de livraison pour l'impression offset ?",
+          "a": "Le délai standard est de <strong>5 à 7 jours ouvrables</strong> après validation du BAT. Des délais express de 48h à 72h sont disponibles selon les volumes."
+        },
+        {
+          "q": "Livrez-vous dans tout le Maroc depuis Agadir ?",
+          "a": "Oui, Vizio Biza Studio livre dans <strong>tout le Maroc</strong> via transporteurs partenaires, ainsi qu'à l'international. Les commandes locales à Agadir bénéficient d'une livraison express."
+        },
+        {
+          "q": "Proposez-vous des finitions comme le vernis UV ou la dorure ?",
+          "a": "Absolument. Nos supports offset peuvent être complétés par <strong>vernis UV sélectif, pelliculage mat ou brillant, dorure à chaud et découpe laser</strong> pour un rendu luxueux et distinctif."
+        }
+      ],
+      "ctaTitle": "Prêt à lancer votre tirage offset ?",
+      "ctaSubtitle": "Obtenez un devis personnalisé pour votre projet d'impression à Agadir. Réponse sous 24h.",
+      "related": [
+        {
+          "slug": "impression-numerique",
+          "title": "Impression Numérique",
+          "description": "Flexibilité & haute résolution pour petits tirages",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742300/ac9cb72b62aff6de569bd791e075cc4e_qp32ou.jpg"
+        },
+        {
+          "slug": "impression-packaging",
+          "title": "Impression Packaging",
+          "description": "Emballages sur mesure qui valorisent votre marque",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734202/dfed239add565f4bfabc3f5ddc45336d_aank9h.webp"
+        },
+        {
+          "slug": "finition-personnalisee",
+          "title": "Finition Personnalisée",
+          "description": "Vernis UV, pelliculage & dorure à chaud",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "impression-numerique",
+    "title": "Impression Numérique Agadir — Petits Tirages Haute Qualité",
+    "metaDescription": "Impression numérique professionnelle à Agadir. Flyers, affiches, brochures en petites quantités avec une qualité photographique supérieure.",
+    "ogImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742300/ac9cb72b62aff6de569bd791e075cc4e_qp32ou.jpg",
+    "heroImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742300/ac9cb72b62aff6de569bd791e075cc4e_qp32ou.jpg",
+    "heroTitle": "Impression Numérique :",
+    "heroTitleItalic": "Petits Tirages, Grande Qualité",
+    "heroSubtitle": "Flyers, affiches, brochures et cartes de visite — impression numérique haute définition dès 1 exemplaire, livraison express 24h à Agadir.",
+    "tag": "Impression Numérique",
+    "tagIcon": "fa-solid fa-print",
+    "category": "impression",
+    "variant": "light",
+    "parentPath": "/impression",
+    "parentLabel": "Services d'Impression",
+    "readTime": "5 min de lecture",
+    "light": {
+      "stamp": {
+        "value": "1",
+        "label": "Exemplaire minimum"
+      },
+      "bullets": [
+        {
+          "icon": "fa-solid fa-bolt",
+          "label": "Livraison express 24h"
+        },
+        {
+          "icon": "fa-solid fa-layer-group",
+          "label": "Dès 1 exemplaire"
+        },
+        {
+          "icon": "fa-solid fa-sliders",
+          "label": "Personnalisation variable"
+        }
+      ],
+      "subsTitle": "Nos solutions d'impression numérique",
+      "subsSubtitle": "Rapidité et qualité photographique pour tous vos supports en petites quantités.",
+      "subs": [
+        {
+          "icon": "fa-solid fa-rectangle-ad",
+          "title": "Flyers & Tracts",
+          "description": "Formats A5, A4 et personnalisés pour distributions, événements et promotions."
+        },
+        {
+          "icon": "fa-solid fa-image",
+          "title": "Affiches",
+          "description": "Formats A3 à A0 avec rendu couleur fidèle, impression rapide en 24h."
+        },
+        {
+          "icon": "fa-solid fa-book",
+          "title": "Brochures",
+          "description": "4 à 16 pages en quadrichromie — idéal pour présentations produits et catalogues."
+        },
+        {
+          "icon": "fa-solid fa-id-card",
+          "title": "Cartes de visite",
+          "description": "Impression express en 24h sur supports mat, brillant ou soft-touch."
+        },
+        {
+          "icon": "fa-solid fa-calendar-days",
+          "title": "Supports événementiels",
+          "description": "Programmes, invitations, menus et billets personnalisés pour vos événements."
+        },
+        {
+          "icon": "fa-solid fa-qrcode",
+          "title": "Personnalisation variable",
+          "description": "Numérotation, noms et QR codes variables d'un exemplaire à l'autre sans surcoût."
+        }
+      ],
+      "whyTitle": "Pourquoi l'impression numérique",
+      "whyItems": [
+        {
+          "icon": "fa-solid fa-bolt",
+          "title": "Livraison express",
+          "description": "Production en 24h disponible — commandes urgentes traitées en priorité à Agadir."
+        },
+        {
+          "icon": "fa-solid fa-layer-group",
+          "title": "Dès 1 exemplaire",
+          "description": "Sans minimum de commande — idéal pour prototypes, tests et éditions limitées."
+        },
+        {
+          "icon": "fa-solid fa-sliders",
+          "title": "Données variables",
+          "description": "Chaque exemplaire peut être unique — noms, numéros, QR codes personnalisés."
+        },
+        {
+          "icon": "fa-solid fa-palette",
+          "title": "Haute définition",
+          "description": "Rendu photographique CMJN irréprochable, même sur les petites quantités."
+        }
+      ],
+      "relatedTitle": "Autres services d'impression",
+      "relatedItems": [
+        {
+          "slug": "impression-offset",
+          "title": "Impression Offset",
+          "description": "Grands tirages premium avec couleurs Pantone",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742095/af55122df7f0a7d9ebb2c2b4bbc0e35e_d6bvbc.jpg"
+        },
+        {
+          "slug": "impression-packaging",
+          "title": "Impression Packaging",
+          "description": "Emballages sur mesure pour votre marque",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734202/dfed239add565f4bfabc3f5ddc45336d_aank9h.webp"
+        },
+        {
+          "slug": "finition-personnalisee",
+          "title": "Finition Personnalisée",
+          "description": "Vernis UV, pelliculage & dorure",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg"
+        }
+      ],
+      "ctaTitle": "Besoin d'une",
+      "ctaTitleItalic": "impression rapide ?",
+      "ctaSubtitle": "Devis gratuit en 1h pour votre projet d'impression numérique à Agadir."
+    },
+    "article": {
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "L'impression numérique : flexibilité et rapidité"
+        },
+        {
+          "type": "p",
+          "html": "L'<strong>impression numérique</strong> est la solution idéale pour les tirages de 1 à 500 exemplaires. Sans setup de plaques, elle permet une production rapide et économique, tout en offrant une qualité photographique irréprochable."
+        },
+        {
+          "type": "highlight",
+          "html": "<strong>Avantage clé :</strong> Personnalisation exemplaire par exemplaire (numérotation, noms, QR codes variables) sans surcoût."
+        },
+        {
+          "type": "h2",
+          "text": "Nos applications de l'impression numérique"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Flyers & Tracts</strong> — A5, A4, formats personnalisés pour vos distributions",
+            "<strong>Affiches</strong> — A3 à A0 avec rendu couleur fidèle",
+            "<strong>Brochures</strong> — 4 à 16 pages en quadrichromie",
+            "<strong>Cartes de visite</strong> — impression express en 24h",
+            "<strong>Supports événementiels</strong> — programmes, invitations, menus"
+          ]
+        },
+        {
+          "type": "specs",
+          "items": [
+            {
+              "icon": "fa-solid fa-layer-group",
+              "title": "Tirage min.",
+              "value": "Dès 1 exemplaire"
+            },
+            {
+              "icon": "fa-solid fa-palette",
+              "title": "Chromie",
+              "value": "CMJN haute définition"
+            },
+            {
+              "icon": "fa-solid fa-expand",
+              "title": "Formats",
+              "value": "A6 à A0"
+            },
+            {
+              "icon": "fa-solid fa-clock",
+              "title": "Délai express",
+              "value": "Dès 24h"
+            },
+            {
+              "icon": "fa-solid fa-file-pdf",
+              "title": "Fichier",
+              "value": "PDF 300 dpi"
+            },
+            {
+              "icon": "fa-solid fa-bolt",
+              "title": "Personnalisation",
+              "value": "Variable data printing"
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Quelle est la différence entre impression numérique et offset ?",
+          "a": "L'impression numérique est optimale pour les petits tirages (1–500 ex.) avec une rapidité de production. L'offset est plus économique au-delà de 500 exemplaires."
+        },
+        {
+          "q": "Puis-je commander en très petite quantité ?",
+          "a": "Oui, nous imprimons <strong>dès 1 exemplaire</strong> sans surcoût de setup. Idéal pour les prototypes ou les éditions limitées."
+        },
+        {
+          "q": "Quel format de fichier dois-je fournir ?",
+          "a": "Nous acceptons les fichiers <strong>PDF haute résolution (300 dpi), AI, EPS et PSD</strong> avec les fonts incorporées."
+        }
+      ],
+      "ctaTitle": "Besoin d'une impression rapide ?",
+      "ctaSubtitle": "Devis gratuit en 1h pour votre projet d'impression numérique à Agadir.",
+      "related": [
+        {
+          "slug": "impression-offset",
+          "title": "Impression Offset",
+          "description": "Grands tirages premium avec couleurs Pantone",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742095/af55122df7f0a7d9ebb2c2b4bbc0e35e_d6bvbc.jpg"
+        },
+        {
+          "slug": "impression-packaging",
+          "title": "Impression Packaging",
+          "description": "Emballages sur mesure pour votre marque",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734202/dfed239add565f4bfabc3f5ddc45336d_aank9h.webp"
+        },
+        {
+          "slug": "finition-personnalisee",
+          "title": "Finition Personnalisée",
+          "description": "Vernis UV, pelliculage & dorure",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "impression-packaging",
+    "title": "Impression Packaging Agadir — Emballages Personnalisés",
+    "metaDescription": "Emballages et packaging personnalisé à Agadir. Boîtes, sacs, étiquettes sur mesure pour valoriser votre marque.",
+    "ogImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734202/dfed239add565f4bfabc3f5ddc45336d_aank9h.webp",
+    "heroImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734202/dfed239add565f4bfabc3f5ddc45336d_aank9h.webp",
+    "heroTitle": "Impression Packaging :",
+    "heroTitleItalic": "Emballages qui Valorisent votre Marque",
+    "heroSubtitle": "Boîtes, sacs, étiquettes et emballages sur mesure — du brief créatif à l'impression finale avec finitions premium à Agadir.",
+    "tag": "Packaging",
+    "tagIcon": "fa-solid fa-box",
+    "category": "impression",
+    "variant": "light",
+    "parentPath": "/impression",
+    "parentLabel": "Services d'Impression",
+    "readTime": "6 min de lecture",
+    "light": {
+      "stamp": {
+        "value": "100%",
+        "label": "Sur mesure"
+      },
+      "bullets": [
+        {
+          "icon": "fa-solid fa-pencil",
+          "label": "Design inclus"
+        },
+        {
+          "icon": "fa-solid fa-leaf",
+          "label": "Matériaux certifiés"
+        },
+        {
+          "icon": "fa-solid fa-wand-magic-sparkles",
+          "label": "Finitions premium"
+        }
+      ],
+      "subsTitle": "Nos solutions packaging",
+      "subsSubtitle": "Du brief à la livraison — des emballages qui captivent et valorisent votre produit.",
+      "subs": [
+        {
+          "icon": "fa-solid fa-box",
+          "title": "Boîtes sur mesure",
+          "description": "Découpe laser et rainurage précis — boîtes rigides, pliantes et présentoirs en carton."
+        },
+        {
+          "icon": "fa-solid fa-shopping-bag",
+          "title": "Sacs papier premium",
+          "description": "Kraft naturel ou couché, avec ou sans poignées — personnalisés à votre image."
+        },
+        {
+          "icon": "fa-solid fa-tag",
+          "title": "Étiquettes & stickers",
+          "description": "Papier, transparent, métallisé — étiquettes produits auto-adhésives haute qualité."
+        },
+        {
+          "icon": "fa-solid fa-wine-bottle",
+          "title": "Manchons thermorétractables",
+          "description": "Habillage complet pour flacons et bouteilles — rendu premium pour vos produits."
+        },
+        {
+          "icon": "fa-solid fa-utensils",
+          "title": "Packaging alimentaire",
+          "description": "Emballages certifiés contact alimentaire conformes aux normes marocaines et européennes."
+        },
+        {
+          "icon": "fa-solid fa-gift",
+          "title": "Coffrets & pochettes",
+          "description": "Coffrets cadeaux, pochettes et présentoirs — packaging luxe pour l'événementiel."
+        }
+      ],
+      "whyTitle": "Pourquoi nous choisir",
+      "whyItems": [
+        {
+          "icon": "fa-solid fa-pencil",
+          "title": "Design complet",
+          "description": "Notre studio créatif conçoit votre packaging de A à Z — brief, maquette 3D, validation BAT."
+        },
+        {
+          "icon": "fa-solid fa-leaf",
+          "title": "Matériaux certifiés",
+          "description": "Papiers FSC, cartons recyclables et matériaux contact alimentaire homologués."
+        },
+        {
+          "icon": "fa-solid fa-wand-magic-sparkles",
+          "title": "Finitions luxe",
+          "description": "Vernis UV sélectif, pelliculage soft-touch, dorure à chaud pour un effet premium."
+        },
+        {
+          "icon": "fa-solid fa-layer-group",
+          "title": "Dès 50 pièces",
+          "description": "Petites séries disponibles grâce à nos solutions d'impression numérique packaging."
+        }
+      ],
+      "relatedTitle": "Autres services d'impression",
+      "relatedItems": [
+        {
+          "slug": "impression-offset",
+          "title": "Impression Offset",
+          "description": "Grands tirages premium",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742095/af55122df7f0a7d9ebb2c2b4bbc0e35e_d6bvbc.jpg"
+        },
+        {
+          "slug": "finition-personnalisee",
+          "title": "Finition Personnalisée",
+          "description": "Vernis UV, dorure à chaud",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg"
+        },
+        {
+          "slug": "stickers-vinyle",
+          "title": "Stickers & Vinyle",
+          "description": "Étiquettes et habillages adhésifs",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg"
+        }
+      ],
+      "ctaTitle": "Votre packaging,",
+      "ctaTitleItalic": "votre identité",
+      "ctaSubtitle": "Contactez-nous pour un devis gratuit sur votre projet d'emballage personnalisé."
+    },
+    "article": {
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Le packaging, premier ambassadeur de votre marque"
+        },
+        {
+          "type": "p",
+          "html": "Un <strong>emballage réussi</strong> est bien plus qu'un contenant — c'est la première expérience physique de votre client avec votre produit. Chez Vizio Biza Studio à Agadir, nous concevons et imprimons des packagings qui captivent, protègent et valorisent."
+        },
+        {
+          "type": "highlight",
+          "html": "<strong>Notre expertise :</strong> Du brief créatif à l'impression finale, nous maîtrisons toute la chaîne du packaging — structural design, sélection des matériaux, impression et finitions."
+        },
+        {
+          "type": "h2",
+          "text": "Nos solutions packaging"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Boîtes sur mesure</strong> — découpe laser et rainurage précis",
+            "<strong>Sacs papier premium</strong> — kraft, couché, avec ou sans poignées",
+            "<strong>Étiquettes & stickers</strong> — papier, transparent, métallisé",
+            "<strong>Manchons thermorétractables</strong> — pour flacons et bouteilles",
+            "<strong>Packaging alimentaire</strong> — normes sanitaires respectées"
+          ]
+        },
+        {
+          "type": "specs",
+          "items": [
+            {
+              "icon": "fa-solid fa-box",
+              "title": "Types",
+              "value": "Boîtes, sacs, étiquettes"
+            },
+            {
+              "icon": "fa-solid fa-leaf",
+              "title": "Matériaux",
+              "value": "Kraft, carton, FSC"
+            },
+            {
+              "icon": "fa-solid fa-palette",
+              "title": "Finitions",
+              "value": "UV, pelliculage, dorure"
+            },
+            {
+              "icon": "fa-solid fa-layer-group",
+              "title": "Tirage min.",
+              "value": "Sur devis"
+            },
+            {
+              "icon": "fa-solid fa-clock",
+              "title": "Délai",
+              "value": "7–14 jours"
+            },
+            {
+              "icon": "fa-solid fa-pencil",
+              "title": "Design",
+              "value": "Sur demande"
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Proposez-vous le design du packaging ?",
+          "a": "Oui, notre équipe créative peut <strong>concevoir votre packaging de A à Z</strong> — brief, maquette 3D, validation avant impression."
+        },
+        {
+          "q": "Quels matériaux utilisez-vous pour les emballages alimentaires ?",
+          "a": "Nous utilisons des matériaux <strong>certifiés contact alimentaire</strong>, conformes aux normes marocaines et européennes."
+        },
+        {
+          "q": "Peut-on imprimer en petite quantité ?",
+          "a": "Oui, grâce à nos solutions d'impression numérique, nous pouvons produire des <strong>séries limitées dès 50 pièces</strong>."
+        }
+      ],
+      "ctaTitle": "Votre packaging, votre identité",
+      "ctaSubtitle": "Contactez-nous pour un devis gratuit sur votre projet d'emballage personnalisé.",
+      "related": [
+        {
+          "slug": "impression-offset",
+          "title": "Impression Offset",
+          "description": "Grands tirages premium",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742095/af55122df7f0a7d9ebb2c2b4bbc0e35e_d6bvbc.jpg"
+        },
+        {
+          "slug": "finition-personnalisee",
+          "title": "Finition Personnalisée",
+          "description": "Vernis UV, dorure à chaud",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg"
+        },
+        {
+          "slug": "stickers-vinyle",
+          "title": "Stickers & Vinyle",
+          "description": "Étiquettes et habillages adhésifs",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "fabrication-plv",
+    "title": "Fabrication PLV Agadir — Publicité sur Lieu de Vente",
+    "metaDescription": "Fabrication de PLV personnalisée à Agadir. Présentoirs, stop-rayons, displays pour valoriser vos produits.",
+    "ogImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775774420/%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A8%D8%AF%D9%88%D9%86_%D8%B9%D9%86%D9%88%D8%A7%D9%86_9_az5jcb.webp",
+    "heroImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775774420/%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A8%D8%AF%D9%88%D9%86_%D8%B9%D9%86%D9%88%D8%A7%D9%86_9_az5jcb.webp",
+    "heroTitle": "Fabrication PLV :",
+    "heroTitleItalic": "Boostez vos Ventes en Point de Vente",
+    "heroSubtitle": "Présentoirs, displays, totems et kakémonos — publicité sur lieu de vente qui capte l'attention et augmente vos ventes à Agadir.",
+    "tag": "PLV",
+    "tagIcon": "fa-solid fa-store",
+    "category": "impression",
+    "variant": "light",
+    "parentPath": "/impression",
+    "parentLabel": "Services d'Impression",
+    "readTime": "5 min de lecture",
+    "light": {
+      "stamp": {
+        "value": "+40%",
+        "label": "Ventes en rayon"
+      },
+      "bullets": [
+        {
+          "icon": "fa-solid fa-eye",
+          "label": "Impact visuel fort"
+        },
+        {
+          "icon": "fa-solid fa-pencil",
+          "label": "Design sur mesure"
+        },
+        {
+          "icon": "fa-solid fa-layer-group",
+          "label": "Multi-matériaux"
+        }
+      ],
+      "subsTitle": "Nos types de PLV",
+      "subsSubtitle": "Des supports conçus pour capter l'attention et convertir en magasin.",
+      "subs": [
+        {
+          "icon": "fa-solid fa-star",
+          "title": "Stop-rayons",
+          "description": "Attirent le regard directement en rayon — formats personnalisés pour vos références produits."
+        },
+        {
+          "icon": "fa-solid fa-store",
+          "title": "Présentoirs comptoir",
+          "description": "Displays compacts pour caisses et comptoirs — idéaux pour les petits formats et impulse buying."
+        },
+        {
+          "icon": "fa-solid fa-arrow-up-from-bracket",
+          "title": "Displays sol",
+          "description": "Présentoirs de sol pour mises en avant produits, promotions et têtes de gondole."
+        },
+        {
+          "icon": "fa-solid fa-scroll",
+          "title": "Kakémonos & Roll-ups",
+          "description": "Supports enroulables pour événements, salons et points de vente — montage en 30 secondes."
+        },
+        {
+          "icon": "fa-solid fa-sign",
+          "title": "Totems publicitaires",
+          "description": "Signalétique intérieure et extérieure — totems lumineux ou imprimés pour votre enseigne."
+        },
+        {
+          "icon": "fa-solid fa-rectangles-mixed",
+          "title": "ILV & Signalétique",
+          "description": "Information sur lieu de vente — fléchage, étiquettes prix et supports d'information rayon."
+        }
+      ],
+      "whyTitle": "Pourquoi la PLV Vizio Biza",
+      "whyItems": [
+        {
+          "icon": "fa-solid fa-chart-line",
+          "title": "+20 à 40% de ventes",
+          "description": "Une PLV bien conçue booste significativement les ventes en point de vente prouvé."
+        },
+        {
+          "icon": "fa-solid fa-pencil",
+          "title": "Design inclus",
+          "description": "Notre studio prend en charge le design complet de vos PLV, du brief au BAT validé."
+        },
+        {
+          "icon": "fa-solid fa-layer-group",
+          "title": "Matériaux durables",
+          "description": "Carton ondulé, PVC expansé, Dibond et aluminium selon durabilité et budget."
+        },
+        {
+          "icon": "fa-solid fa-clock",
+          "title": "Délais express",
+          "description": "Production rapide en 5 à 10 jours — options express disponibles pour vos urgences."
+        }
+      ],
+      "relatedTitle": "Autres services d'impression",
+      "relatedItems": [
+        {
+          "slug": "grand-format",
+          "title": "Grand Format",
+          "description": "Bâches, panneaux et affichage grand format",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775741929/dd4d08ead0a228442344a5b87ba5830d_ugdigw.jpg"
+        },
+        {
+          "slug": "impression-packaging",
+          "title": "Packaging",
+          "description": "Emballages personnalisés premium",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734202/dfed239add565f4bfabc3f5ddc45336d_aank9h.webp"
+        },
+        {
+          "slug": "finition-personnalisee",
+          "title": "Finition Personnalisée",
+          "description": "Vernis UV, pelliculage, dorure",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg"
+        }
+      ],
+      "ctaTitle": "Valorisez vos produits",
+      "ctaTitleItalic": "en rayon",
+      "ctaSubtitle": "Contactez-nous pour un devis PLV personnalisé — réponse sous 24h."
+    },
+    "article": {
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "La PLV : un levier de vente puissant"
+        },
+        {
+          "type": "p",
+          "html": "La <strong>publicité sur lieu de vente (PLV)</strong> est l'ensemble des supports qui attirent l'attention et incitent à l'achat en magasin. Chez Vizio Biza Studio, nous fabriquons des PLV personnalisées qui valorisent vos produits et renforcent votre image de marque."
+        },
+        {
+          "type": "highlight",
+          "html": "<strong>Impact prouvé :</strong> Une PLV bien conçue peut augmenter les ventes d'un produit de 20 à 40% en point de vente."
+        },
+        {
+          "type": "h2",
+          "text": "Nos types de PLV"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Stop-rayons</strong> — attirent le regard en rayon",
+            "<strong>Présentoirs comptoir</strong> — idéaux pour les petits formats",
+            "<strong>Displays sol</strong> — pour les mises en avant de produits",
+            "<strong>Kakémonos & roll-ups</strong> — pour les événements et salons",
+            "<strong>Totems publicitaires</strong> — signalétique intérieure et extérieure"
+          ]
+        },
+        {
+          "type": "specs",
+          "items": [
+            {
+              "icon": "fa-solid fa-store",
+              "title": "Type",
+              "value": "Displays, présentoirs, totems"
+            },
+            {
+              "icon": "fa-solid fa-layer-group",
+              "title": "Matériaux",
+              "value": "Carton, PVC, aluminium"
+            },
+            {
+              "icon": "fa-solid fa-expand",
+              "title": "Formats",
+              "value": "Sur mesure"
+            },
+            {
+              "icon": "fa-solid fa-palette",
+              "title": "Finitions",
+              "value": "UV, pelliculage, découpé"
+            },
+            {
+              "icon": "fa-solid fa-clock",
+              "title": "Délai",
+              "value": "5–10 jours"
+            },
+            {
+              "icon": "fa-solid fa-pencil",
+              "title": "Design",
+              "value": "Inclus sur demande"
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Quels matériaux utilisez-vous pour les PLV ?",
+          "a": "Nous travaillons le <strong>carton ondulé, le PVC expansé, le Dibond et l'aluminium</strong>, selon la durabilité et le budget souhaités."
+        },
+        {
+          "q": "Proposez-vous la conception des PLV ?",
+          "a": "Oui, notre studio créatif prend en charge le <strong>design complet de vos PLV</strong>, du brief au BAT validé."
+        }
+      ],
+      "ctaTitle": "Valorisez vos produits en rayon",
+      "ctaSubtitle": "Contactez-nous pour un devis PLV personnalisé.",
+      "related": [
+        {
+          "slug": "grand-format",
+          "title": "Grand Format",
+          "description": "Bâches, panneaux et affichage grand format",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775741929/dd4d08ead0a228442344a5b87ba5830d_ugdigw.jpg"
+        },
+        {
+          "slug": "impression-packaging",
+          "title": "Packaging",
+          "description": "Emballages personnalisés premium",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734202/dfed239add565f4bfabc3f5ddc45336d_aank9h.webp"
+        },
+        {
+          "slug": "finition-personnalisee",
+          "title": "Finition Personnalisée",
+          "description": "Vernis UV, pelliculage, dorure",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "finition-personnalisee",
+    "title": "Finition Personnalisée — Vernis UV, Pelliculage & Dorure | Agadir",
+    "metaDescription": "Finitions d'impression premium à Agadir : vernis UV sélectif, pelliculage mat/brillant, dorure à chaud. Vizio Biza Studio.",
+    "ogImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg",
+    "heroImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg",
+    "heroTitle": "Finitions Premium :",
+    "heroTitleItalic": "Le Détail qui Fait la Différence",
+    "heroSubtitle": "Vernis UV, pelliculage mat/brillant, dorure à chaud et gaufrage — des finitions d'impression luxe qui subliment vos supports à Agadir.",
+    "tag": "Finitions",
+    "tagIcon": "fa-solid fa-wand-magic-sparkles",
+    "category": "impression",
+    "variant": "light",
+    "parentPath": "/impression",
+    "parentLabel": "Services d'Impression",
+    "readTime": "5 min de lecture",
+    "light": {
+      "stamp": {
+        "value": "6+",
+        "label": "Techniques de finition"
+      },
+      "bullets": [
+        {
+          "icon": "fa-solid fa-star",
+          "label": "Effet luxe garanti"
+        },
+        {
+          "icon": "fa-solid fa-layer-group",
+          "label": "Combinaisons possibles"
+        },
+        {
+          "icon": "fa-solid fa-shield-halved",
+          "label": "Protection renforcée"
+        }
+      ],
+      "subsTitle": "Nos techniques de finition",
+      "subsSubtitle": "Chaque technique transforme votre support imprimé en objet de prestige distinctif.",
+      "subs": [
+        {
+          "icon": "fa-solid fa-circle",
+          "title": "Vernis UV total",
+          "description": "Protection brillante et résistante sur l'ensemble du support — rendu éclatant et durable."
+        },
+        {
+          "icon": "fa-solid fa-wand-magic-sparkles",
+          "title": "Vernis UV sélectif",
+          "description": "Mise en relief de zones spécifiques — logo, titres ou illustrations en relief brillant."
+        },
+        {
+          "icon": "fa-solid fa-layer-group",
+          "title": "Pelliculage mat",
+          "description": "Élégance sophistiquée anti-traces — touch premium idéal pour cartes de visite luxe."
+        },
+        {
+          "icon": "fa-solid fa-sun",
+          "title": "Pelliculage brillant",
+          "description": "Couleurs vives intensifiées et protection maximale — rendu professionnel éclatant."
+        },
+        {
+          "icon": "fa-solid fa-star",
+          "title": "Dorure à chaud",
+          "description": "Effet luxe intemporel en or, argent, rosé ou couleurs — distinction immédiate."
+        },
+        {
+          "icon": "fa-solid fa-hand",
+          "title": "Gaufrage & Embossage",
+          "description": "Relief tactile sec ou encré sur carte, packaging et couverture — texture haut de gamme."
+        }
+      ],
+      "whyTitle": "Pourquoi choisir nos finitions",
+      "whyItems": [
+        {
+          "icon": "fa-solid fa-star",
+          "title": "Effet luxe distinctif",
+          "description": "Vos supports se démarquent immédiatement — impact premium dès la première impression."
+        },
+        {
+          "icon": "fa-solid fa-layer-group",
+          "title": "Combinaisons possibles",
+          "description": "Pelliculage + vernis UV sélectif + dorure — plusieurs finitions sur le même support."
+        },
+        {
+          "icon": "fa-solid fa-shield-halved",
+          "title": "Protection maximale",
+          "description": "Les finitions protègent votre impression contre l'humidité, les rayures et le temps."
+        },
+        {
+          "icon": "fa-solid fa-clock",
+          "title": "Délais maîtrisés",
+          "description": "Les finitions ajoutent seulement 2 à 3 jours ouvrables à votre délai de production."
+        }
+      ],
+      "relatedTitle": "Autres services d'impression",
+      "relatedItems": [
+        {
+          "slug": "impression-offset",
+          "title": "Impression Offset",
+          "description": "Grand tirage haute qualité",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742095/af55122df7f0a7d9ebb2c2b4bbc0e35e_d6bvbc.jpg"
+        },
+        {
+          "slug": "impression-packaging",
+          "title": "Packaging",
+          "description": "Emballages avec finitions premium",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734202/dfed239add565f4bfabc3f5ddc45336d_aank9h.webp"
+        },
+        {
+          "slug": "impression-numerique",
+          "title": "Impression Numérique",
+          "description": "Petits tirages rapides haute définition",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742300/ac9cb72b62aff6de569bd791e075cc4e_qp32ou.jpg"
+        }
+      ],
+      "ctaTitle": "Sublimez vos",
+      "ctaTitleItalic": "supports d'impression",
+      "ctaSubtitle": "Demandez un échantillon de finitions avant de valider votre commande."
+    },
+    "article": {
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Les finitions d'impression : sublimez vos supports"
+        },
+        {
+          "type": "p",
+          "html": "Les <strong>finitions d'impression</strong> transforment un simple support imprimé en objet de prestige. Vernis, pelliculage, dorure — ces techniques apportent texture, protection et impact visuel à vos supports de communication."
+        },
+        {
+          "type": "h2",
+          "text": "Nos techniques de finition"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Vernis UV total</strong> — protection brillante et résistante",
+            "<strong>Vernis UV sélectif</strong> — mise en relief de zones spécifiques",
+            "<strong>Pelliculage mat</strong> — élégance sophistiquée et anti-traces",
+            "<strong>Pelliculage brillant</strong> — couleurs vives et protection maximale",
+            "<strong>Dorure à chaud</strong> — effet luxe intemporel en or, argent ou couleurs",
+            "<strong>Gaufrage & embossage</strong> — relief tactile sur carte ou packaging"
+          ]
+        },
+        {
+          "type": "specs",
+          "items": [
+            {
+              "icon": "fa-solid fa-wand-magic-sparkles",
+              "title": "Vernis UV",
+              "value": "Total & sélectif"
+            },
+            {
+              "icon": "fa-solid fa-layer-group",
+              "title": "Pelliculage",
+              "value": "Mat, brillant, soft-touch"
+            },
+            {
+              "icon": "fa-solid fa-star",
+              "title": "Dorure",
+              "value": "Or, argent, bronze, couleurs"
+            },
+            {
+              "icon": "fa-solid fa-hand",
+              "title": "Gaufrage",
+              "value": "Relief sec ou encré"
+            },
+            {
+              "icon": "fa-solid fa-scissors",
+              "title": "Découpe",
+              "value": "Laser & emporte-pièce"
+            },
+            {
+              "icon": "fa-solid fa-clock",
+              "title": "Délai add.",
+              "value": "+2 à 3 jours"
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Peut-on combiner plusieurs finitions sur un même support ?",
+          "a": "Oui, il est possible de <strong>combiner pelliculage + vernis UV sélectif + dorure</strong> sur un même support pour un effet luxueux maximal."
+        },
+        {
+          "q": "Quel est le délai supplémentaire pour les finitions ?",
+          "a": "Les finitions ajoutent généralement <strong>2 à 3 jours ouvrables</strong> au délai de production standard."
+        }
+      ],
+      "ctaTitle": "Sublimez vos supports d'impression",
+      "ctaSubtitle": "Demandez un échantillon de finitions avant de valider votre commande.",
+      "related": [
+        {
+          "slug": "impression-offset",
+          "title": "Impression Offset",
+          "description": "Grand tirage haute qualité",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742095/af55122df7f0a7d9ebb2c2b4bbc0e35e_d6bvbc.jpg"
+        },
+        {
+          "slug": "impression-packaging",
+          "title": "Packaging",
+          "description": "Emballages avec finitions premium",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734202/dfed239add565f4bfabc3f5ddc45336d_aank9h.webp"
+        },
+        {
+          "slug": "impression-numerique",
+          "title": "Impression Numérique",
+          "description": "Petits tirages rapides",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742300/ac9cb72b62aff6de569bd791e075cc4e_qp32ou.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "photo-commerciale",
+    "title": "Photographie Commerciale Agadir — Catalogue & E-commerce",
+    "metaDescription": "Photographie commerciale professionnelle à Agadir pour catalogues, e-commerce et communication de marque.",
+    "ogImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733266/acca6f901eba77bc1aaa98cf904b30a6_awu7d2.webp",
+    "heroImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733266/acca6f901eba77bc1aaa98cf904b30a6_awu7d2.webp",
+    "heroTitle": "Photographie Commerciale :",
+    "heroTitleItalic": "Images qui Font Vendre",
+    "heroSubtitle": "Photo produit, lifestyle, food et mode — des images commerciales professionnelles qui boostent votre conversion e-commerce et vos catalogues à Agadir.",
+    "tag": "Photo Commerciale",
+    "tagIcon": "fa-solid fa-camera",
+    "category": "photographie",
+    "variant": "light",
+    "parentPath": "/photographie",
+    "parentLabel": "Services Photographie",
+    "readTime": "5 min de lecture",
+    "light": {
+      "stamp": {
+        "value": "+80%",
+        "label": "Taux de conversion"
+      },
+      "bullets": [
+        {
+          "icon": "fa-solid fa-camera",
+          "label": "50+ mégapixels"
+        },
+        {
+          "icon": "fa-solid fa-palette",
+          "label": "Retouche incluse"
+        },
+        {
+          "icon": "fa-solid fa-bolt",
+          "label": "Livraison 24–48h"
+        }
+      ],
+      "subsTitle": "Nos services photo commerciale",
+      "subsSubtitle": "Chaque produit mérite d'être mis en valeur — des prises de vue adaptées à chaque support.",
+      "subs": [
+        {
+          "icon": "fa-solid fa-circle",
+          "title": "Photo fond blanc",
+          "description": "Standard marketplace international — Amazon, Jumia, Jumia — détourage net et fond pur."
+        },
+        {
+          "icon": "fa-solid fa-arrows-rotate",
+          "title": "Packshot 360°",
+          "description": "Vue complète interactive de votre produit sous tous les angles — expérience d'achat immersive."
+        },
+        {
+          "icon": "fa-solid fa-couch",
+          "title": "Photo lifestyle",
+          "description": "Produit en situation d'utilisation réelle — storytelling visuel qui crée l'envie d'achat."
+        },
+        {
+          "icon": "fa-solid fa-utensils",
+          "title": "Food photography",
+          "description": "Photographie culinaire professionnelle — styling, éclairage et composition appétissants."
+        },
+        {
+          "icon": "fa-solid fa-shirt",
+          "title": "Photo mode & textile",
+          "description": "Sur mannequin ou à plat — rendu fidèle des textures et couleurs pour le prêt-à-porter."
+        },
+        {
+          "icon": "fa-solid fa-building",
+          "title": "Photo corporate",
+          "description": "Reportage d'entreprise, architecture et événements — images qui valorisent votre activité."
+        }
+      ],
+      "whyTitle": "Pourquoi nous choisir",
+      "whyItems": [
+        {
+          "icon": "fa-solid fa-chart-line",
+          "title": "+30 à 80% de conversion",
+          "description": "Des photos produit professionnelles transforment vos visiteurs en acheteurs — prouvé."
+        },
+        {
+          "icon": "fa-solid fa-palette",
+          "title": "Retouche incluse",
+          "description": "Détourage, correction colorimétrique et balance des blancs inclus dans chaque livraison."
+        },
+        {
+          "icon": "fa-solid fa-bolt",
+          "title": "Livraison 24–48h",
+          "description": "Photos retouchées livrées en 24 à 48h après la séance — réactivité pour votre business."
+        },
+        {
+          "icon": "fa-solid fa-camera",
+          "title": "Studio équipé",
+          "description": "Boîtiers 50+ mégapixels, flash studio, fonds et accessoires professionnels disponibles."
+        }
+      ],
+      "relatedTitle": "Autres services photo",
+      "relatedItems": [
+        {
+          "slug": "photo-produit",
+          "title": "Photo Produit",
+          "description": "Packshots et photos e-commerce",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733266/acca6f901eba77bc1aaa98cf904b30a6_awu7d2.webp"
+        },
+        {
+          "slug": "retouche-photo",
+          "title": "Retouche Photo",
+          "description": "Post-production professionnelle",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734130/ec8b1114dc620783b89dc02d9989457a_wpgwmg.webp"
+        },
+        {
+          "slug": "photo-portrait",
+          "title": "Portrait Pro",
+          "description": "Photos corporate et headshots",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp"
+        }
+      ],
+      "ctaTitle": "Mettez vos produits",
+      "ctaTitleItalic": "en valeur",
+      "ctaSubtitle": "Session photo produit à Agadir — devis rapide sous 24h."
+    },
+    "article": {
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "La photographie commerciale au service de vos ventes"
+        },
+        {
+          "type": "p",
+          "html": "Des <strong>images de qualité professionnelle</strong> sont le moteur de toute stratégie de vente réussie. Que ce soit pour votre e-commerce, vos catalogues ou vos réseaux sociaux, Vizio Biza Studio capture vos produits sous leur meilleur jour."
+        },
+        {
+          "type": "highlight",
+          "html": "<strong>Résultat prouvé :</strong> Des photos produit professionnelles augmentent le taux de conversion e-commerce de 30 à 80%."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Photo produit fond blanc</strong> — standard marketplace (Amazon, Jumia...)",
+            "<strong>Photo packshot 360°</strong> — toutes les faces de votre produit",
+            "<strong>Photo lifestyle</strong> — produit en situation d'utilisation",
+            "<strong>Photo alimentaire</strong> — food photography professionnelle",
+            "<strong>Photo mode & textile</strong> — sur mannequin ou à plat"
+          ]
+        },
+        {
+          "type": "specs",
+          "items": [
+            {
+              "icon": "fa-solid fa-camera",
+              "title": "Résolution",
+              "value": "50+ mégapixels"
+            },
+            {
+              "icon": "fa-solid fa-image",
+              "title": "Formats",
+              "value": "JPEG, PNG, WebP, RAW"
+            },
+            {
+              "icon": "fa-solid fa-clock",
+              "title": "Livraison",
+              "value": "24–48h après séance"
+            },
+            {
+              "icon": "fa-solid fa-palette",
+              "title": "Retouche",
+              "value": "Incluse"
+            },
+            {
+              "icon": "fa-solid fa-layer-group",
+              "title": "Volume",
+              "value": "À partir de 1 produit"
+            },
+            {
+              "icon": "fa-solid fa-star",
+              "title": "Style",
+              "value": "Fond blanc, lifestyle, 360°"
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Combien de produits puis-je photographier par session ?",
+          "a": "En moyenne, nous photographions <strong>15 à 30 produits</strong> par session de 4h selon la complexité des prises de vue."
+        },
+        {
+          "q": "Les retouches sont-elles incluses ?",
+          "a": "Oui, <strong>la retouche de base est incluse</strong> : détourage, correction colorimétrique, balance des blancs et légère correction de peau."
+        }
+      ],
+      "ctaTitle": "Mettez vos produits en valeur",
+      "ctaSubtitle": "Session photo produit à Agadir — devis rapide sous 24h.",
+      "related": [
+        {
+          "slug": "photo-produit",
+          "title": "Photo Produit",
+          "description": "Packshots et photos e-commerce",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733266/acca6f901eba77bc1aaa98cf904b30a6_awu7d2.webp"
+        },
+        {
+          "slug": "retouche-photo",
+          "title": "Retouche Photo",
+          "description": "Post-production professionnelle",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734130/ec8b1114dc620783b89dc02d9989457a_wpgwmg.webp"
+        },
+        {
+          "slug": "photo-portrait",
+          "title": "Portrait Pro",
+          "description": "Photos corporate et headshots",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "photo-portrait",
+    "title": "Portrait Professionnel Agadir — Corporate & Headshots",
+    "metaDescription": "Photographie portrait professionnelle à Agadir. Headshots corporate, photos LinkedIn, portraits équipe.",
+    "ogImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp",
+    "heroImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp",
+    "heroTitle": "Portrait Professionnel :",
+    "heroTitleItalic": "Votre Image, Notre Expertise",
+    "heroSubtitle": "Headshots LinkedIn, portraits corporate, photos d'équipe — des portraits professionnels qui renforcent votre crédibilité et votre image de marque à Agadir.",
+    "tag": "Portrait Pro",
+    "tagIcon": "fa-solid fa-user-tie",
+    "category": "photographie",
+    "variant": "light",
+    "parentPath": "/photographie",
+    "parentLabel": "Services Photographie",
+    "readTime": "5 min de lecture",
+    "light": {
+      "stamp": {
+        "value": "24h",
+        "label": "Livraison retouchée"
+      },
+      "bullets": [
+        {
+          "icon": "fa-solid fa-camera",
+          "label": "Flash studio pro"
+        },
+        {
+          "icon": "fa-solid fa-palette",
+          "label": "Retouche peau incluse"
+        },
+        {
+          "icon": "fa-solid fa-bolt",
+          "label": "Livraison 24h"
+        }
+      ],
+      "subsTitle": "Nos services de portrait",
+      "subsSubtitle": "Du headshot LinkedIn au portrait d'équipe — des clichés qui vous ressemblent.",
+      "subs": [
+        {
+          "icon": "fa-brands fa-linkedin",
+          "title": "Headshots LinkedIn",
+          "description": "Fond neutre, cadrage buste — le portrait idéal pour votre profil professionnel en ligne."
+        },
+        {
+          "icon": "fa-solid fa-user-tie",
+          "title": "Portrait corporate",
+          "description": "Direction artistique soignée pour dirigeants et cadres — image de leadership authentique."
+        },
+        {
+          "icon": "fa-solid fa-users",
+          "title": "Photos d'équipe",
+          "description": "Portraits cohésifs pour toute votre équipe — même style, même éclairage pour une communication RH unifiée."
+        },
+        {
+          "icon": "fa-solid fa-briefcase",
+          "title": "Portrait lifestyle pro",
+          "description": "En situation dans votre environnement professionnel — bureau, atelier ou extérieur."
+        },
+        {
+          "icon": "fa-solid fa-id-card",
+          "title": "Photo CV & médias",
+          "description": "Portrait standard pour CV, communiqués de presse et médias — fond uni ou dégradé."
+        },
+        {
+          "icon": "fa-solid fa-palette",
+          "title": "Portrait artistique",
+          "description": "Mise en scène créative pour artistes, entrepreneurs et personnalités — expression unique."
+        }
+      ],
+      "whyTitle": "Pourquoi investir en portrait",
+      "whyItems": [
+        {
+          "icon": "fa-solid fa-camera",
+          "title": "Studio équipé",
+          "description": "Flash Bowens, softboxes et réflecteurs professionnels — éclairage maîtrisé pour tous les profils."
+        },
+        {
+          "icon": "fa-solid fa-palette",
+          "title": "Retouche peau incluse",
+          "description": "Lissage naturel, correction de l'éclairage et détourage fond inclus dans chaque livraison."
+        },
+        {
+          "icon": "fa-solid fa-bolt",
+          "title": "Livraison 24h",
+          "description": "Photos retouchées livrées en 24h — idéal pour vos besoins urgents de communication."
+        },
+        {
+          "icon": "fa-solid fa-shirt",
+          "title": "Conseils styling",
+          "description": "Nos photographes vous conseillent sur les tenues et poses pour sublimer votre profil."
+        }
+      ],
+      "relatedTitle": "Autres services photo",
+      "relatedItems": [
+        {
+          "slug": "photo-commerciale",
+          "title": "Photo Commerciale",
+          "description": "Images produit pour vos ventes",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733266/acca6f901eba77bc1aaa98cf904b30a6_awu7d2.webp"
+        },
+        {
+          "slug": "photo-evenements",
+          "title": "Photo Événements",
+          "description": "Couverture mariage et corporate",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733518/4bf58d831cb1a3375ba73a36506a1dc2_lgvant.webp"
+        },
+        {
+          "slug": "retouche-photo",
+          "title": "Retouche Photo",
+          "description": "Post-production avancée",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734130/ec8b1114dc620783b89dc02d9989457a_wpgwmg.webp"
+        }
+      ],
+      "ctaTitle": "Investissez dans",
+      "ctaTitleItalic": "votre image professionnelle",
+      "ctaSubtitle": "Séance portrait à Agadir — sur rendez-vous 7j/7."
+    },
+    "article": {
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "Le portrait professionnel : votre vitrine personnelle"
+        },
+        {
+          "type": "p",
+          "html": "Un <strong>portrait professionnel de qualité</strong> est aujourd'hui indispensable — CV, LinkedIn, site web, carte de visite. Chez Vizio Biza Studio à Agadir, nous créons des portraits qui reflètent votre personnalité et renforcent votre crédibilité."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Headshots LinkedIn</strong> — fond neutre, cadrage buste",
+            "<strong>Portrait corporate</strong> — équipe dirigeante, direction artistique",
+            "<strong>Photo d'identité professionnelle</strong> — CV, site web, médias",
+            "<strong>Portrait lifestyle</strong> — en situation dans votre environnement professionnel",
+            "<strong>Photos d'équipe</strong> — groupe cohésif pour votre communication RH"
+          ]
+        },
+        {
+          "type": "specs",
+          "items": [
+            {
+              "icon": "fa-solid fa-camera",
+              "title": "Équipement",
+              "value": "Flash studio professionnel"
+            },
+            {
+              "icon": "fa-solid fa-user",
+              "title": "Format",
+              "value": "Individuel ou groupe"
+            },
+            {
+              "icon": "fa-solid fa-clock",
+              "title": "Durée",
+              "value": "30–90 min"
+            },
+            {
+              "icon": "fa-solid fa-image",
+              "title": "Livraison",
+              "value": "24h retouchées"
+            },
+            {
+              "icon": "fa-solid fa-palette",
+              "title": "Retouche",
+              "value": "Peau, éclairage, fond"
+            },
+            {
+              "icon": "fa-solid fa-star",
+              "title": "Style",
+              "value": "Corporate, décontracté, créatif"
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Faut-il se préparer pour une séance portrait ?",
+          "a": "Nous vous conseillons de venir avec <strong>2 à 3 tenues différentes</strong> pour varier les styles. Évitez les rayures et les motifs chargés."
+        },
+        {
+          "q": "Les retouches incluent-elles la correction de peau ?",
+          "a": "Oui, <strong>la retouche peau (lissage naturel)</strong>, la correction de l'éclairage et le détourage fond sont inclus."
+        }
+      ],
+      "ctaTitle": "Investissez dans votre image professionnelle",
+      "ctaSubtitle": "Séance portrait à Agadir — sur rendez-vous 7j/7.",
+      "related": [
+        {
+          "slug": "photo-commerciale",
+          "title": "Photo Commerciale",
+          "description": "Images produit pour vos ventes",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733266/acca6f901eba77bc1aaa98cf904b30a6_awu7d2.webp"
+        },
+        {
+          "slug": "photo-evenements",
+          "title": "Photo Événements",
+          "description": "Couverture mariage et corporate",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733518/4bf58d831cb1a3375ba73a36506a1dc2_lgvant.webp"
+        },
+        {
+          "slug": "retouche-photo",
+          "title": "Retouche Photo",
+          "description": "Post-production avancée",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734130/ec8b1114dc620783b89dc02d9989457a_wpgwmg.webp"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "photo-evenements",
+    "title": "Photo Mariage & Événements Agadir — Studio Vizio Biza",
+    "metaDescription": "Photographie de mariage et d'événements professionnelle à Agadir. Couverture complète, retouche incluse.",
+    "ogImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733518/4bf58d831cb1a3375ba73a36506a1dc2_lgvant.webp",
+    "heroImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733518/4bf58d831cb1a3375ba73a36506a1dc2_lgvant.webp",
+    "heroTitle": "Mariage & Événements :",
+    "heroTitleItalic": "Chaque Moment, Sublimé",
+    "heroSubtitle": "Mariage, fiançailles, corporate et anniversaires — reportage photo et vidéo complet avec retouche incluse pour immortaliser vos plus beaux moments à Agadir.",
+    "tag": "Événements",
+    "tagIcon": "fa-solid fa-ring",
+    "category": "photographie",
+    "variant": "light",
+    "parentPath": "/photographie",
+    "parentLabel": "Services Photographie",
+    "readTime": "6 min de lecture",
+    "light": {
+      "stamp": {
+        "value": "500+",
+        "label": "Photos retouchées"
+      },
+      "bullets": [
+        {
+          "icon": "fa-solid fa-camera",
+          "label": "Couverture complète"
+        },
+        {
+          "icon": "fa-solid fa-palette",
+          "label": "Retouche incluse"
+        },
+        {
+          "icon": "fa-solid fa-video",
+          "label": "Vidéo disponible"
+        }
+      ],
+      "subsTitle": "Nos services événementiels",
+      "subsSubtitle": "Chaque événement est unique — nous l'immortalisons avec sensibilité et professionnalisme.",
+      "subs": [
+        {
+          "icon": "fa-solid fa-ring",
+          "title": "Mariage & Fiançailles",
+          "description": "Couverture complète de la cérémonie — préparatifs, cérémonie, réception et portraits."
+        },
+        {
+          "icon": "fa-solid fa-building",
+          "title": "Événements corporate",
+          "description": "Conférences, séminaires, lancements produit — images professionnelles pour vos communications."
+        },
+        {
+          "icon": "fa-solid fa-cake-candles",
+          "title": "Anniversaires & Fêtes",
+          "description": "Ambiance festive immortalisée — reportage dynamique qui capture l'émotion du moment."
+        },
+        {
+          "icon": "fa-solid fa-music",
+          "title": "Événements culturels",
+          "description": "Expositions, concerts, festivals — reportage artistique en lumière naturelle ou artificielle."
+        },
+        {
+          "icon": "fa-solid fa-graduation-cap",
+          "title": "Cérémonies & Remises",
+          "description": "Diplômes, prix et remises de médailles — portraits officiels et reportage de la cérémonie."
+        },
+        {
+          "icon": "fa-solid fa-video",
+          "title": "Couverture vidéo",
+          "description": "Film événement, teaser ou aftermovie — montage professionnel livré sous 5 à 7 jours."
+        }
+      ],
+      "whyTitle": "Pourquoi nous choisir",
+      "whyItems": [
+        {
+          "icon": "fa-solid fa-camera",
+          "title": "Couverture complète",
+          "description": "Deux boîtiers professionnels pour ne manquer aucun moment — discrétion et réactivité."
+        },
+        {
+          "icon": "fa-solid fa-images",
+          "title": "200 à 500 photos",
+          "description": "Toutes les photos sont retouchées et livrées en galerie privée sous 3 à 5 jours."
+        },
+        {
+          "icon": "fa-solid fa-book-open",
+          "title": "Album luxe en option",
+          "description": "Albums photo premium reliés à la main — un souvenir physique inoubliable."
+        },
+        {
+          "icon": "fa-solid fa-video",
+          "title": "Vidéo disponible",
+          "description": "Forfaits photo + vidéo pour une couverture complète de votre événement."
+        }
+      ],
+      "relatedTitle": "Autres services photo",
+      "relatedItems": [
+        {
+          "slug": "photo-portrait",
+          "title": "Portrait Pro",
+          "description": "Headshots et portraits corporate",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp"
+        },
+        {
+          "slug": "production-video",
+          "title": "Production Vidéo",
+          "description": "Films et clips professionnels",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775732907/0af33070949a2c81b328349c457cf0b3_ar3ed2.webp"
+        },
+        {
+          "slug": "retouche-photo",
+          "title": "Retouche Photo",
+          "description": "Post-production avancée",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734130/ec8b1114dc620783b89dc02d9989457a_wpgwmg.webp"
+        }
+      ],
+      "ctaTitle": "Réservez votre photographe",
+      "ctaTitleItalic": "pour votre grand jour",
+      "ctaSubtitle": "Disponibilités limitées — contactez-nous pour vérifier vos dates."
+    },
+    "article": {
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "La photographie événementielle : capturer l'émotion"
+        },
+        {
+          "type": "p",
+          "html": "Un mariage, une cérémonie, un événement corporate — ces moments uniques méritent d'être immortalisés avec <strong>sensibilité et professionnalisme</strong>. Vizio Biza Studio couvre vos événements à Agadir et dans tout le Maroc."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Mariage & fiançailles</strong> — couverture complète de la cérémonie",
+            "<strong>Événements corporate</strong> — conférences, séminaires, lancement produit",
+            "<strong>Anniversaires & fêtes</strong> — ambiance festive immortalisée",
+            "<strong>Événements culturels</strong> — expositions, concerts, festivals"
+          ]
+        },
+        {
+          "type": "specs",
+          "items": [
+            {
+              "icon": "fa-solid fa-camera",
+              "title": "Équipement",
+              "value": "Boîtiers pro + flash"
+            },
+            {
+              "icon": "fa-solid fa-clock",
+              "title": "Couverture",
+              "value": "Demi-journée ou journée"
+            },
+            {
+              "icon": "fa-solid fa-image",
+              "title": "Livraison",
+              "value": "3–5 jours"
+            },
+            {
+              "icon": "fa-solid fa-layer-group",
+              "title": "Photos",
+              "value": "200–500 retouchées"
+            },
+            {
+              "icon": "fa-solid fa-star",
+              "title": "Album",
+              "value": "En option"
+            },
+            {
+              "icon": "fa-solid fa-video",
+              "title": "Vidéo",
+              "value": "En option"
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Combien de temps à l'avance faut-il réserver ?",
+          "a": "Pour les mariages, nous recommandons de réserver <strong>3 à 6 mois à l'avance</strong>. Pour les événements corporate, 2 à 4 semaines suffisent."
+        },
+        {
+          "q": "Proposez-vous la vidéo en plus de la photo ?",
+          "a": "Oui, nous proposons des <strong>forfaits photo + vidéo</strong> pour une couverture complète de votre événement."
+        }
+      ],
+      "ctaTitle": "Réservez votre photographe pour votre grand jour",
+      "ctaSubtitle": "Disponibilités limitées — contactez-nous pour vérifier vos dates.",
+      "related": [
+        {
+          "slug": "photo-portrait",
+          "title": "Portrait Pro",
+          "description": "Headshots et portraits corporate",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp"
+        },
+        {
+          "slug": "production-video",
+          "title": "Production Vidéo",
+          "description": "Films et clips professionnels",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775732907/0af33070949a2c81b328349c457cf0b3_ar3ed2.webp"
+        },
+        {
+          "slug": "retouche-photo",
+          "title": "Retouche Photo",
+          "description": "Post-production avancée",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734130/ec8b1114dc620783b89dc02d9989457a_wpgwmg.webp"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "photo-produit",
+    "title": "Photographie Produit Agadir — E-commerce & Catalogue",
+    "metaDescription": "Photographie produit professionnelle à Agadir pour e-commerce et catalogues. Fond blanc, packshot, lifestyle.",
+    "ogImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733266/acca6f901eba77bc1aaa98cf904b30a6_awu7d2.webp",
+    "heroImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733266/acca6f901eba77bc1aaa98cf904b30a6_awu7d2.webp",
+    "heroTitle": "Photo Produit :",
+    "heroTitleItalic": "Chaque Produit sous son Meilleur Jour",
+    "heroSubtitle": "Fond blanc, packshot 360°, lifestyle et flat lay — photographie produit professionnelle 50 mégapixels avec retouche incluse, livraison 24-48h à Agadir.",
+    "tag": "Photo Produit",
+    "tagIcon": "fa-solid fa-box",
+    "category": "photographie",
+    "variant": "light",
+    "parentPath": "/photographie",
+    "parentLabel": "Services Photographie",
+    "readTime": "5 min de lecture",
+    "light": {
+      "stamp": {
+        "value": "30+",
+        "label": "Produits / session"
+      },
+      "bullets": [
+        {
+          "icon": "fa-solid fa-camera",
+          "label": "50+ mégapixels"
+        },
+        {
+          "icon": "fa-solid fa-image",
+          "label": "PNG fond transparent"
+        },
+        {
+          "icon": "fa-solid fa-bolt",
+          "label": "Livraison 24–48h"
+        }
+      ],
+      "subsTitle": "Nos styles de photo produit",
+      "subsSubtitle": "Des prises de vue adaptées à chaque support — marketplace, catalogue, réseaux sociaux.",
+      "subs": [
+        {
+          "icon": "fa-solid fa-circle",
+          "title": "Fond blanc / gris",
+          "description": "Standard marketplace international — Amazon, Jumia — fond pur, détourage net."
+        },
+        {
+          "icon": "fa-solid fa-arrows-rotate",
+          "title": "Photo 360°",
+          "description": "Vue complète interactive — toutes les faces de votre produit pour une expérience d'achat immersive."
+        },
+        {
+          "icon": "fa-solid fa-couch",
+          "title": "Lifestyle",
+          "description": "Produit en contexte d'utilisation réelle — storytelling visuel qui crée l'envie d'achat."
+        },
+        {
+          "icon": "fa-solid fa-table",
+          "title": "Flat lay",
+          "description": "Vue de dessus tendance — idéale pour les réseaux sociaux et la communication mode."
+        },
+        {
+          "icon": "fa-solid fa-magnifying-glass-plus",
+          "title": "Macro & Détail",
+          "description": "Gros plan sur les textures, matières et finitions — valorise la qualité de votre produit."
+        },
+        {
+          "icon": "fa-solid fa-layer-group",
+          "title": "Série catalogues",
+          "description": "Photographier en série des collections entières — cohérence visuelle pour vos catalogues."
+        }
+      ],
+      "whyTitle": "Pourquoi nos photos vendent",
+      "whyItems": [
+        {
+          "icon": "fa-solid fa-camera",
+          "title": "50+ mégapixels",
+          "description": "Boîtiers professionnels haute résolution — chaque détail de votre produit est capturé."
+        },
+        {
+          "icon": "fa-solid fa-image",
+          "title": "PNG fond transparent",
+          "description": "Toutes les photos livrées en JPEG fond blanc + PNG transparent pour une utilisation maximale."
+        },
+        {
+          "icon": "fa-solid fa-bolt",
+          "title": "Livraison 24–48h",
+          "description": "Photos retouchées livrées rapidement — réactivité pour vos lancements et campagnes."
+        },
+        {
+          "icon": "fa-solid fa-palette",
+          "title": "Retouche incluse",
+          "description": "Détourage, correction colorimétrique et balance des blancs inclus — zéro surcoût."
+        }
+      ],
+      "relatedTitle": "Autres services photo",
+      "relatedItems": [
+        {
+          "slug": "photo-commerciale",
+          "title": "Photo Commerciale",
+          "description": "Photos pour catalogues et marques",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733266/acca6f901eba77bc1aaa98cf904b30a6_awu7d2.webp"
+        },
+        {
+          "slug": "retouche-photo",
+          "title": "Retouche Photo",
+          "description": "Post-production avancée",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734130/ec8b1114dc620783b89dc02d9989457a_wpgwmg.webp"
+        },
+        {
+          "slug": "photo-portrait",
+          "title": "Portrait Pro",
+          "description": "Portraits corporate et headshots",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp"
+        }
+      ],
+      "ctaTitle": "Sublimez vos produits",
+      "ctaTitleItalic": "en ligne",
+      "ctaSubtitle": "Session photo produit à Agadir — tarif dégressif selon volume."
+    },
+    "article": {
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "La photo produit : indispensable pour votre e-commerce"
+        },
+        {
+          "type": "p",
+          "html": "Des <strong>photos produit de qualité</strong> sont le premier critère d'achat en ligne. Vizio Biza Studio réalise des packshots précis, des photos lifestyle inspirantes et des prises de vue 360° pour tous vos produits."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Fond blanc/gris</strong> — standard marketplace international",
+            "<strong>Photo 360°</strong> — vue complète interactive",
+            "<strong>Lifestyle</strong> — produit en contexte d'utilisation",
+            "<strong>Flat lay</strong> — vue de dessus tendance",
+            "<strong>Macro</strong> — détail et texture de précision"
+          ]
+        },
+        {
+          "type": "specs",
+          "items": [
+            {
+              "icon": "fa-solid fa-camera",
+              "title": "Résolution",
+              "value": "50+ mégapixels"
+            },
+            {
+              "icon": "fa-solid fa-layer-group",
+              "title": "Cadence",
+              "value": "15–30 produits / 4h"
+            },
+            {
+              "icon": "fa-solid fa-clock",
+              "title": "Livraison",
+              "value": "24–48h"
+            },
+            {
+              "icon": "fa-solid fa-image",
+              "title": "Formats",
+              "value": "JPEG HD + PNG transparent"
+            },
+            {
+              "icon": "fa-solid fa-palette",
+              "title": "Retouche",
+              "value": "Incluse"
+            },
+            {
+              "icon": "fa-solid fa-star",
+              "title": "360°",
+              "value": "Disponible"
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Fournissez-vous les photos avec fond transparent ?",
+          "a": "Oui, nous livrons systématiquement les photos en <strong>JPEG fond blanc + PNG avec fond transparent</strong> pour une utilisation maximale."
+        },
+        {
+          "q": "Puis-je fournir des moodboards pour guider le style ?",
+          "a": "Absolument, nous encourageons nos clients à partager des <strong>références visuelles</strong> pour aligner le rendu avec votre identité de marque."
+        }
+      ],
+      "ctaTitle": "Sublimez vos produits en ligne",
+      "ctaSubtitle": "Session photo produit à Agadir — tarif dégressif selon volume.",
+      "related": [
+        {
+          "slug": "photo-commerciale",
+          "title": "Photo Commerciale",
+          "description": "Photos pour catalogues et marques",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733266/acca6f901eba77bc1aaa98cf904b30a6_awu7d2.webp"
+        },
+        {
+          "slug": "retouche-photo",
+          "title": "Retouche Photo",
+          "description": "Post-production avancée",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734130/ec8b1114dc620783b89dc02d9989457a_wpgwmg.webp"
+        },
+        {
+          "slug": "photo-portrait",
+          "title": "Portrait Pro",
+          "description": "Portraits corporate et headshots",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "retouche-photo",
+    "title": "Retouche Photo Professionnelle Agadir — Lightroom & Photoshop",
+    "metaDescription": "Retouche photo professionnelle à Agadir : correction couleurs, détourage, compositing, retouche peau. Studio Vizio Biza.",
+    "ogImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734130/ec8b1114dc620783b89dc02d9989457a_wpgwmg.webp",
+    "heroImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734130/ec8b1114dc620783b89dc02d9989457a_wpgwmg.webp",
+    "heroTitle": "Retouche Photo :",
+    "heroTitleItalic": "La Perfection dans Chaque Pixel",
+    "heroSubtitle": "Correction couleurs, retouche peau, détourage, compositing et batch editing — post-production professionnelle Photoshop & Lightroom avec 2 révisions incluses.",
+    "tag": "Retouche Photo",
+    "tagIcon": "fa-solid fa-wand-magic-sparkles",
+    "category": "photographie",
+    "variant": "light",
+    "parentPath": "/photographie",
+    "parentLabel": "Services Photographie",
+    "readTime": "4 min de lecture",
+    "light": {
+      "stamp": {
+        "value": "1000+",
+        "label": "Images / semaine"
+      },
+      "bullets": [
+        {
+          "icon": "fa-solid fa-wand-magic-sparkles",
+          "label": "Photoshop & Lightroom"
+        },
+        {
+          "icon": "fa-solid fa-arrow-rotate-left",
+          "label": "2 révisions incluses"
+        },
+        {
+          "icon": "fa-solid fa-bolt",
+          "label": "Livraison 24–72h"
+        }
+      ],
+      "subsTitle": "Nos services de retouche",
+      "subsSubtitle": "De la correction rapide au compositing avancé — chaque image sublimée avec naturel.",
+      "subs": [
+        {
+          "icon": "fa-solid fa-sun",
+          "title": "Correction colorimétrique",
+          "description": "Balance des blancs, exposition, contraste et saturation — rendu fidèle et professionnel."
+        },
+        {
+          "icon": "fa-solid fa-user",
+          "title": "Retouche peau",
+          "description": "Lissage naturel, effacement d'imperfections et correction teint — beauté préservée."
+        },
+        {
+          "icon": "fa-solid fa-scissors",
+          "title": "Détourage professionnel",
+          "description": "Fond uni, transparent ou remplacement — rendu net sur cheveux, produits et sujets complexes."
+        },
+        {
+          "icon": "fa-solid fa-layer-group",
+          "title": "Compositing",
+          "description": "Montage et fusion d'images — ajout d'éléments, manipulation de fond et création visuelle."
+        },
+        {
+          "icon": "fa-solid fa-clock-rotate-left",
+          "title": "Restauration photo",
+          "description": "Photos anciennes restaurées — recadrage, correction et colorisation de vos souvenirs."
+        },
+        {
+          "icon": "fa-solid fa-boxes-stacked",
+          "title": "Batch editing",
+          "description": "Traitement en masse pour e-commerce — cohérence visuelle sur des centaines de photos."
+        }
+      ],
+      "whyTitle": "Pourquoi notre retouche",
+      "whyItems": [
+        {
+          "icon": "fa-solid fa-wand-magic-sparkles",
+          "title": "Photoshop & Lightroom",
+          "description": "Maîtrise des logiciels professionnels — résultat naturel et fidèle à votre vision."
+        },
+        {
+          "icon": "fa-solid fa-eye",
+          "title": "Retouche naturelle garantie",
+          "description": "Nous préservons l'authenticité — pas de retouche excessive, rendu crédible et qualitatif."
+        },
+        {
+          "icon": "fa-solid fa-arrow-rotate-left",
+          "title": "2 révisions incluses",
+          "description": "Deux allers-retours inclus dans chaque commande — satisfaction garantie ou retouchée."
+        },
+        {
+          "icon": "fa-solid fa-bolt",
+          "title": "Livraison 24–72h",
+          "description": "Délais adaptés au volume — de 24h pour les petites séries à 72h pour les batchs importants."
+        }
+      ],
+      "relatedTitle": "Autres services photo",
+      "relatedItems": [
+        {
+          "slug": "photo-produit",
+          "title": "Photo Produit",
+          "description": "Packshots e-commerce",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733266/acca6f901eba77bc1aaa98cf904b30a6_awu7d2.webp"
+        },
+        {
+          "slug": "photo-portrait",
+          "title": "Portrait Pro",
+          "description": "Headshots et portraits corporate",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp"
+        },
+        {
+          "slug": "photo-commerciale",
+          "title": "Photo Commerciale",
+          "description": "Photos marketing et catalogue",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733266/acca6f901eba77bc1aaa98cf904b30a6_awu7d2.webp"
+        }
+      ],
+      "ctaTitle": "Donnez une seconde vie",
+      "ctaTitleItalic": "à vos photos",
+      "ctaSubtitle": "Devis retouche photo rapide — réponse sous 2h."
+    },
+    "article": {
+      "blocks": [
+        {
+          "type": "h2",
+          "text": "La retouche photo professionnelle : sublimez vos images"
+        },
+        {
+          "type": "p",
+          "html": "Une <strong>retouche professionnelle</strong> transforme une bonne photo en image exceptionnelle. Notre équipe maîtrise Lightroom et Photoshop pour sublimer vos images tout en préservant leur naturel."
+        },
+        {
+          "type": "ul",
+          "items": [
+            "<strong>Correction colorimétrique</strong> — balance des blancs, exposition, contraste",
+            "<strong>Retouche peau</strong> — lissage naturel, effacement d'imperfections",
+            "<strong>Détourage professionnel</strong> — fond uni ou transparent",
+            "<strong>Compositing</strong> — montage et fusion d'images",
+            "<strong>Restauration photo ancienne</strong> — recadrage, colorisation",
+            "<strong>Batch editing</strong> — traitement en masse pour e-commerce"
+          ]
+        },
+        {
+          "type": "specs",
+          "items": [
+            {
+              "icon": "fa-solid fa-wand-magic-sparkles",
+              "title": "Logiciels",
+              "value": "Photoshop, Lightroom"
+            },
+            {
+              "icon": "fa-solid fa-clock",
+              "title": "Délai",
+              "value": "24–72h selon volume"
+            },
+            {
+              "icon": "fa-solid fa-layer-group",
+              "title": "Volume",
+              "value": "1 à 1000+ images"
+            },
+            {
+              "icon": "fa-solid fa-image",
+              "title": "Formats",
+              "value": "RAW, JPEG, TIFF, PNG"
+            },
+            {
+              "icon": "fa-solid fa-arrow-rotate-left",
+              "title": "Révisions",
+              "value": "2 révisions incluses"
+            },
+            {
+              "icon": "fa-solid fa-star",
+              "title": "Qualité",
+              "value": "Retouche naturelle garantie"
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Quelle est la différence entre retouche basique et avancée ?",
+          "a": "La retouche <strong>basique</strong> couvre : correction couleurs, luminosité, recadrage. La retouche <strong>avancée</strong> ajoute : détourage, compositing, manipulation de fond."
+        },
+        {
+          "q": "Comment m'envoyer mes photos ?",
+          "a": "Via <strong>WeTransfer, Google Drive ou WhatsApp</strong>. Nous acceptons tous les formats RAW et JPEG."
+        }
+      ],
+      "ctaTitle": "Donnez une seconde vie à vos photos",
+      "ctaSubtitle": "Devis retouche photo rapide — réponse sous 2h.",
+      "related": [
+        {
+          "slug": "photo-produit",
+          "title": "Photo Produit",
+          "description": "Packshots e-commerce",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733266/acca6f901eba77bc1aaa98cf904b30a6_awu7d2.webp"
+        },
+        {
+          "slug": "photo-portrait",
+          "title": "Portrait Pro",
+          "description": "Headshots et portraits corporate",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp"
+        },
+        {
+          "slug": "photo-commerciale",
+          "title": "Photo Commerciale",
+          "description": "Photos marketing et catalogue",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733266/acca6f901eba77bc1aaa98cf904b30a6_awu7d2.webp"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "sublimation",
+    "title": "Sublimation & Objets Personnalisés — Studio Vizio Biza | Agadir",
+    "metaDescription": "Sublimation professionnelle et objets personnalisés à Agadir : T-shirts, mugs, coussins, casquettes. Studio Vizio Biza.",
+    "ogImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775774166/%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A8%D8%AF%D9%88%D9%86_%D8%B9%D9%86%D9%88%D8%A7%D9%86_8_ha8x5v.webp",
+    "heroImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775774166/%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A8%D8%AF%D9%88%D9%86_%D8%B9%D9%86%D9%88%D8%A7%D9%86_8_ha8x5v.webp",
+    "heroTitle": "Sublimation &",
+    "heroTitleItalic": "Objets Personnalisés",
+    "heroSubtitle": "T-shirts, mugs, coussins, casquettes, trophées et bien plus — personnalisation haute qualité à Agadir pour particuliers, entreprises et événements.",
+    "tag": "Sublimation",
+    "tagIcon": "fa-solid fa-shirt",
+    "category": "impression",
+    "variant": "light",
+    "parentPath": "/impression",
+    "parentLabel": "Services d'Impression",
+    "light": {
+      "stamp": {
+        "value": "500+",
+        "label": "Objets livrés / mois"
+      },
+      "bullets": [
+        {
+          "icon": "fa-solid fa-medal",
+          "label": "Impression permanente"
+        },
+        {
+          "icon": "fa-solid fa-palette",
+          "label": "Couleurs éclatantes"
+        },
+        {
+          "icon": "fa-solid fa-sliders",
+          "label": "Sur mesure"
+        }
+      ],
+      "subsTitle": "Nos services de sublimation",
+      "subsSubtitle": "Toute une gamme d'objets et textiles personnalisés avec votre design, photo ou logo.",
+      "subs": [
+        {
+          "icon": "fa-solid fa-shirt",
+          "title": "T-shirts & Polos",
+          "description": "Sublimation totale sur tissu polyester — logo, photo ou design full print."
+        },
+        {
+          "icon": "fa-solid fa-mug-saucer",
+          "title": "Mugs & Thermos",
+          "description": "Mugs céramique, thermos inox, bouteilles — idéaux pour cadeaux d'entreprise."
+        },
+        {
+          "icon": "fa-solid fa-couch",
+          "title": "Coussins & Plaids",
+          "description": "Sublimation sur coussins décoratifs et plaids polaire personnalisés."
+        },
+        {
+          "icon": "fa-solid fa-hat-cowboy",
+          "title": "Casquettes & Bonnets",
+          "description": "Impression sublimatique sur casquettes et accessoires de mode."
+        },
+        {
+          "icon": "fa-solid fa-trophy",
+          "title": "Trophées & Médailles",
+          "description": "Récompenses personnalisées pour événements, tournois et remises de prix."
+        },
+        {
+          "icon": "fa-solid fa-puzzle-piece",
+          "title": "Puzzles & Tableaux",
+          "description": "Photos sublimées sur puzzles, toiles alu et panneaux décoratifs."
+        }
+      ],
+      "whyTitle": "Pourquoi nous choisir",
+      "whyItems": [
+        {
+          "icon": "fa-solid fa-medal",
+          "title": "Qualité permanente",
+          "description": "La sublimation pénètre le matériau — couleurs indélébiles même après 100 lavages."
+        },
+        {
+          "icon": "fa-solid fa-palette",
+          "title": "Couleurs éclatantes",
+          "description": "Rendu photographique haute définition, gamme colorimétrique étendue."
+        },
+        {
+          "icon": "fa-solid fa-bolt",
+          "title": "Livraison rapide",
+          "description": "Délais express disponibles — commandes urgentes traitées en priorité."
+        },
+        {
+          "icon": "fa-solid fa-sliders",
+          "title": "Personnalisation totale",
+          "description": "Votre design, votre logo, votre photo — sur n'importe quel support."
+        }
+      ],
+      "relatedTitle": "Autres services",
+      "relatedItems": [
+        {
+          "slug": "impression-offset",
+          "title": "Impression Offset",
+          "description": "Grand tirage professionnel premium",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742095/af55122df7f0a7d9ebb2c2b4bbc0e35e_d6bvbc.jpg"
+        },
+        {
+          "slug": "grand-format",
+          "title": "Grand Format",
+          "description": "Bâches, panneaux et affichage",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775741929/dd4d08ead0a228442344a5b87ba5830d_ugdigw.jpg"
+        },
+        {
+          "slug": "design-creation",
+          "title": "Design & Création",
+          "description": "Conception graphique sur mesure",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg"
+        }
+      ],
+      "ctaTitle": "Prêt à personnaliser vos",
+      "ctaTitleItalic": "objets & cadeaux ?",
+      "ctaSubtitle": "Devis gratuit en moins de 2h — production express disponible."
+    }
+  },
+  {
+    "slug": "stickers-vinyle",
+    "title": "Stickers & Vinyle Agadir — Habillage & Signalétique",
+    "metaDescription": "Stickers, vinyle adhésif, habillage vitrine et décoration intérieure à Agadir. Vizio Biza Studio.",
+    "ogImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg",
+    "heroImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg",
+    "heroTitle": "Stickers &",
+    "heroTitleItalic": "Vinyle Adhésif",
+    "heroSubtitle": "Habillage vitrines, véhicules, intérieurs — stickers découpés, lettrage adhésif et signalétique vinyle professionnels à Agadir.",
+    "tag": "Stickers & Vinyle",
+    "tagIcon": "fa-solid fa-tag",
+    "category": "impression",
+    "variant": "light",
+    "parentPath": "/impression",
+    "parentLabel": "Services d'Impression",
+    "light": {
+      "stamp": {
+        "value": "100%",
+        "label": "Résistant aux UV"
+      },
+      "bullets": [
+        {
+          "icon": "fa-solid fa-scissors",
+          "label": "Découpe précise"
+        },
+        {
+          "icon": "fa-solid fa-shield-halved",
+          "label": "Résistant intempéries"
+        },
+        {
+          "icon": "fa-solid fa-bolt",
+          "label": "Pose professionnelle"
+        }
+      ],
+      "subsTitle": "Nos solutions adhésives",
+      "subs": [
+        {
+          "icon": "fa-solid fa-tag",
+          "title": "Stickers découpés",
+          "description": "Découpe au tracé sur vinyle blanc, transparent ou coloré."
+        },
+        {
+          "icon": "fa-solid fa-store",
+          "title": "Habillage vitrine",
+          "description": "Dépoli, lettrage, décoration et privatisation de vitrine."
+        },
+        {
+          "icon": "fa-solid fa-car",
+          "title": "Marquage véhicule",
+          "description": "Covering partiel ou total, lettrage et stickers pour flotte."
+        },
+        {
+          "icon": "fa-solid fa-signs-post",
+          "title": "Signalétique",
+          "description": "Signalisation directionnelle, affiches et panneaux adhésifs."
+        },
+        {
+          "icon": "fa-solid fa-paint-roller",
+          "title": "Décoration intérieure",
+          "description": "Stickers muraux, tableaux adhésifs et décor sur mesure."
+        },
+        {
+          "icon": "fa-solid fa-qrcode",
+          "title": "QR Code & labels",
+          "description": "Étiquettes produit, QR codes et stickers industriels résistants."
+        }
+      ],
+      "whyTitle": "Pourquoi nous choisir",
+      "whyItems": [
+        {
+          "icon": "fa-solid fa-scissors",
+          "title": "Découpe laser précise",
+          "description": "Tracé au millimètre grâce à nos traceurs de découpe professionnels."
+        },
+        {
+          "icon": "fa-solid fa-shield-halved",
+          "title": "Vinyle premium",
+          "description": "Matériaux Avery & Orafol résistants aux UV, intempéries et lavages."
+        },
+        {
+          "icon": "fa-solid fa-bolt",
+          "title": "Installation rapide",
+          "description": "Notre équipe assure la pose selon vos besoins."
+        },
+        {
+          "icon": "fa-solid fa-palette",
+          "title": "Toutes couleurs",
+          "description": "Impression quadrichromie ou vinyle uni dans tout le spectre RAL."
+        }
+      ],
+      "relatedTitle": "Services connexes",
+      "relatedItems": [
+        {
+          "slug": "grand-format",
+          "title": "Grand Format",
+          "description": "Bâches et panneaux publicitaires",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775741929/dd4d08ead0a228442344a5b87ba5830d_ugdigw.jpg"
+        },
+        {
+          "slug": "finition-personnalisee",
+          "title": "Finition Personnalisée",
+          "description": "Vernis UV, pelliculage",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg"
+        },
+        {
+          "slug": "fabrication-plv",
+          "title": "Fabrication PLV",
+          "description": "Displays et présentoirs",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775774420/%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A8%D8%AF%D9%88%D9%86_%D8%B9%D9%86%D9%88%D8%A7%D9%86_9_az5jcb.webp"
+        }
+      ],
+      "ctaTitle": "Habiller vos espaces avec",
+      "ctaTitleItalic": "style & précision ?",
+      "ctaSubtitle": "Devis sticker et vinyle sous 24h — pose incluse sur demande."
+    }
+  },
+  {
+    "slug": "grand-format",
+    "title": "Impression Grand Format Agadir — Bâches & Panneaux",
+    "metaDescription": "Impression grand format à Agadir : bâches publicitaires, panneaux, canvas, roll-ups. Qualité professionnelle.",
+    "ogImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775741929/dd4d08ead0a228442344a5b87ba5830d_ugdigw.jpg",
+    "heroImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775741929/dd4d08ead0a228442344a5b87ba5830d_ugdigw.jpg",
+    "heroTitle": "Impression",
+    "heroTitleItalic": "Grand Format",
+    "heroSubtitle": "Bâches publicitaires, panneaux, canvas, kakémonos — impression grand format haute définition pour vos campagnes et événements à Agadir.",
+    "tag": "Grand Format",
+    "tagIcon": "fa-solid fa-expand",
+    "category": "impression",
+    "variant": "light",
+    "parentPath": "/impression",
+    "parentLabel": "Services d'Impression",
+    "light": {
+      "stamp": {
+        "value": "10m+",
+        "label": "Format maximum"
+      },
+      "bullets": [
+        {
+          "icon": "fa-solid fa-shield-halved",
+          "label": "Résistant aux UV"
+        },
+        {
+          "icon": "fa-solid fa-print",
+          "label": "Impression HDR"
+        },
+        {
+          "icon": "fa-solid fa-bolt",
+          "label": "Livraison rapide"
+        }
+      ],
+      "subsTitle": "Nos formats publicitaires",
+      "subs": [
+        {
+          "icon": "fa-solid fa-flag",
+          "title": "Bâches publicitaires",
+          "description": "PVC 440g/m², résistant aux UV et aux intempéries — pour affichage extérieur."
+        },
+        {
+          "icon": "fa-solid fa-image",
+          "title": "Canvas & Toile",
+          "description": "Impression fine art sur toile polycoton pour décoration et exposition."
+        },
+        {
+          "icon": "fa-solid fa-rectangle-ad",
+          "title": "Roll-ups & Kakémonos",
+          "description": "Présentoirs autonomes pour salons, foires et points de vente."
+        },
+        {
+          "icon": "fa-solid fa-signs-post",
+          "title": "Panneaux rigides",
+          "description": "Dibond, Forex, Aluminium imprimé pour signalétique durable."
+        },
+        {
+          "icon": "fa-solid fa-shop",
+          "title": "Devanture magasin",
+          "description": "Habillage façade, vitrophanie grand format et enseigne."
+        },
+        {
+          "icon": "fa-solid fa-tent",
+          "title": "Tentes & structures",
+          "description": "Impression sur tentes pliantes, barnums et structures événementielles."
+        }
+      ],
+      "whyTitle": "Pourquoi nous choisir",
+      "whyItems": [
+        {
+          "icon": "fa-solid fa-print",
+          "title": "Impression haute définition",
+          "description": "Résolution 1440 dpi pour un rendu net même vue de près."
+        },
+        {
+          "icon": "fa-solid fa-shield-halved",
+          "title": "Encres UV résistantes",
+          "description": "Tenue aux UV garantie 3 ans en extérieur avec laminage optionnel."
+        },
+        {
+          "icon": "fa-solid fa-expand",
+          "title": "Formats illimités",
+          "description": "De 50 cm à 10 m de largeur — toutes dimensions sur mesure."
+        },
+        {
+          "icon": "fa-solid fa-bolt",
+          "title": "Délai express",
+          "description": "Production en 24–48h pour les commandes urgentes."
+        }
+      ],
+      "relatedTitle": "Autres services",
+      "relatedItems": [
+        {
+          "slug": "stickers-vinyle",
+          "title": "Stickers & Vinyle",
+          "description": "Habillage et signalétique adhésive",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg"
+        },
+        {
+          "slug": "fabrication-plv",
+          "title": "Fabrication PLV",
+          "description": "Présentoirs et displays",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775774420/%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A8%D8%AF%D9%88%D9%86_%D8%B9%D9%86%D9%88%D8%A7%D9%86_9_az5jcb.webp"
+        },
+        {
+          "slug": "impression-offset",
+          "title": "Impression Offset",
+          "description": "Grands tirages premium",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742095/af55122df7f0a7d9ebb2c2b4bbc0e35e_d6bvbc.jpg"
+        }
+      ],
+      "ctaTitle": "Affichez-vous en",
+      "ctaTitleItalic": "grand à Agadir",
+      "ctaSubtitle": "Devis bâche et grand format sous 1h — livraison express disponible."
+    }
+  },
+  {
+    "slug": "design-creation",
+    "title": "Design & Création Graphique Agadir — Studio Vizio Biza",
+    "metaDescription": "Design graphique et création visuelle à Agadir. Logo, charte graphique, supports print et digital.",
+    "ogImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg",
+    "heroImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg",
+    "heroTitle": "Design &",
+    "heroTitleItalic": "Création Graphique",
+    "heroSubtitle": "Logo, charte graphique, supports print et digital — notre studio créatif à Agadir donne vie à votre identité visuelle.",
+    "tag": "Design",
+    "tagIcon": "fa-solid fa-palette",
+    "category": "impression",
+    "variant": "light",
+    "parentPath": "/impression",
+    "parentLabel": "Services d'Impression",
+    "light": {
+      "stamp": {
+        "value": "5★",
+        "label": "Satisfaction client"
+      },
+      "bullets": [
+        {
+          "icon": "fa-solid fa-pen-nib",
+          "label": "Identité visuelle"
+        },
+        {
+          "icon": "fa-solid fa-print",
+          "label": "Print & Digital"
+        },
+        {
+          "icon": "fa-solid fa-arrows-left-right",
+          "label": "Fichiers livrables"
+        }
+      ],
+      "subsTitle": "Nos services créatifs",
+      "subs": [
+        {
+          "icon": "fa-solid fa-pen-nib",
+          "title": "Création de logo",
+          "description": "Logo vectoriel professionnel déclinable sur tous supports."
+        },
+        {
+          "icon": "fa-solid fa-palette",
+          "title": "Charte graphique",
+          "description": "Guide complet : couleurs, typographies, usages et interdits."
+        },
+        {
+          "icon": "fa-solid fa-id-card",
+          "title": "Carte de visite",
+          "description": "Design premium avec mise en page et préparation à l'impression."
+        },
+        {
+          "icon": "fa-solid fa-newspaper",
+          "title": "Flyers & brochures",
+          "description": "Supports marketing impactants — conception et préparation BAT."
+        },
+        {
+          "icon": "fa-solid fa-rectangle-ad",
+          "title": "Affiches & bannières",
+          "description": "Publicités print et bannières digitales pour vos campagnes."
+        },
+        {
+          "icon": "fa-solid fa-mobile-screen",
+          "title": "Visuels réseaux sociaux",
+          "description": "Templates et visuels pour Instagram, Facebook, LinkedIn."
+        }
+      ],
+      "whyTitle": "Pourquoi nous choisir",
+      "whyItems": [
+        {
+          "icon": "fa-solid fa-star",
+          "title": "Créativité premium",
+          "description": "Designs originaux qui captivent et reflètent votre identité."
+        },
+        {
+          "icon": "fa-solid fa-arrows-left-right",
+          "title": "Adaptabilité",
+          "description": "Fichiers livrés dans tous les formats : AI, PDF, PNG, SVG."
+        },
+        {
+          "icon": "fa-solid fa-arrow-rotate-left",
+          "title": "Révisions incluses",
+          "description": "2 à 3 révisions incluses pour atteindre votre vision."
+        },
+        {
+          "icon": "fa-solid fa-bolt",
+          "title": "Délais respectés",
+          "description": "Livraison dans les délais convenus, quoi qu'il arrive."
+        }
+      ],
+      "relatedTitle": "Services complémentaires",
+      "relatedItems": [
+        {
+          "slug": "impression-offset",
+          "title": "Impression Offset",
+          "description": "Imprimez vos créations en grande série",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742095/af55122df7f0a7d9ebb2c2b4bbc0e35e_d6bvbc.jpg"
+        },
+        {
+          "slug": "sublimation",
+          "title": "Sublimation",
+          "description": "Vos designs sur objets personnalisés",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775774166/%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A8%D8%AF%D9%88%D9%86_%D8%B9%D9%86%D9%88%D8%A7%D9%86_8_ha8x5v.webp"
+        },
+        {
+          "slug": "grand-format",
+          "title": "Grand Format",
+          "description": "Vos visuels en grand format",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775741929/dd4d08ead0a228442344a5b87ba5830d_ugdigw.jpg"
+        }
+      ],
+      "ctaTitle": "Donnons vie à votre",
+      "ctaTitleItalic": "identité visuelle",
+      "ctaSubtitle": "Brief créatif gratuit — décrivez votre projet et nous vous proposons une approche."
+    }
+  },
+  {
+    "slug": "production-video",
+    "title": "Production Vidéo Professionnelle Agadir — Studio Vizio Biza",
+    "metaDescription": "Production vidéo professionnelle à Agadir : clips, publicités, vidéos corporate et réseaux sociaux.",
+    "ogImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775732907/0af33070949a2c81b328349c457cf0b3_ar3ed2.webp",
+    "heroImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775732907/0af33070949a2c81b328349c457cf0b3_ar3ed2.webp",
+    "heroTitle": "Production",
+    "heroTitleItalic": "Vidéo Professionnelle",
+    "heroSubtitle": "Clips, publicités, films corporate, vidéos réseaux sociaux — notre équipe crée des contenus vidéo captivants pour votre marque à Agadir.",
+    "tag": "Production Vidéo",
+    "tagIcon": "fa-solid fa-video",
+    "category": "photographie",
+    "variant": "light",
+    "parentPath": "/photographie",
+    "parentLabel": "Services Photographie",
+    "light": {
+      "stamp": {
+        "value": "4K",
+        "label": "Résolution Ultra HD"
+      },
+      "bullets": [
+        {
+          "icon": "fa-solid fa-video",
+          "label": "4K Ultra HD"
+        },
+        {
+          "icon": "fa-solid fa-helicopter",
+          "label": "Drone disponible"
+        },
+        {
+          "icon": "fa-solid fa-scissors",
+          "label": "Montage professionnel"
+        }
+      ],
+      "subsTitle": "Nos services vidéo",
+      "subs": [
+        {
+          "icon": "fa-solid fa-film",
+          "title": "Vidéo corporate",
+          "description": "Présentation de votre entreprise, culture et équipe en vidéo."
+        },
+        {
+          "icon": "fa-solid fa-bullhorn",
+          "title": "Publicité & spot TV",
+          "description": "Spots publicitaires pour télévision, cinéma et réseaux sociaux."
+        },
+        {
+          "icon": "fa-solid fa-mobile-screen",
+          "title": "Contenu réseaux sociaux",
+          "description": "Reels, TikTok, shorts — vidéos optimisées pour l'engagement."
+        },
+        {
+          "icon": "fa-solid fa-person-walking",
+          "title": "Événementiel",
+          "description": "Captation et montage de mariages, conférences et événements."
+        },
+        {
+          "icon": "fa-solid fa-helicopter",
+          "title": "Prise de vue aérienne",
+          "description": "Drone professionnel pour des perspectives spectaculaires."
+        },
+        {
+          "icon": "fa-solid fa-clapperboard",
+          "title": "Clip musical",
+          "description": "Réalisation artistique de clips musicaux professionnels."
+        }
+      ],
+      "whyTitle": "Pourquoi nous choisir",
+      "whyItems": [
+        {
+          "icon": "fa-solid fa-video",
+          "title": "Équipement 4K Pro",
+          "description": "Caméras Sony FX, stabilisateurs Ronin et éclairage cinéma."
+        },
+        {
+          "icon": "fa-solid fa-music",
+          "title": "Son professionnel",
+          "description": "Perches, micros cravates et mixage audio studio."
+        },
+        {
+          "icon": "fa-solid fa-scissors",
+          "title": "Montage artistique",
+          "description": "Post-production Premiere Pro & After Effects avec étalonnage colorimétrique."
+        },
+        {
+          "icon": "fa-solid fa-bolt",
+          "title": "Livraison rapide",
+          "description": "Délais de montage optimisés pour vos contraintes de publication."
+        }
+      ],
+      "relatedTitle": "Services complémentaires",
+      "relatedItems": [
+        {
+          "slug": "photo-evenements",
+          "title": "Photo Événements",
+          "description": "Couverture photo de vos événements",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733518/4bf58d831cb1a3375ba73a36506a1dc2_lgvant.webp"
+        },
+        {
+          "slug": "photo-produit",
+          "title": "Photo Produit",
+          "description": "Packshots et photos lifestyle",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733266/acca6f901eba77bc1aaa98cf904b30a6_awu7d2.webp"
+        },
+        {
+          "slug": "photo-portrait",
+          "title": "Portrait Pro",
+          "description": "Headshots et portraits corporate",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp"
+        }
+      ],
+      "ctaTitle": "Racontez votre histoire en",
+      "ctaTitleItalic": "vidéo professionnelle",
+      "ctaSubtitle": "Brief vidéo gratuit — décrivez votre projet et nous vous préparons une proposition."
+    }
+  },
+  {
+    "slug": "photo-administrative",
+    "title": "Photo Administrative Agadir — CIN, Passeport, Visa",
+    "metaDescription": "Photo d'identité administrative à Agadir : CIN, passeport, visa, permis de conduire. Conformité garantie, impression immédiate.",
+    "ogImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734130/ec8b1114dc620783b89dc02d9989457a_wpgwmg.webp",
+    "heroImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734130/ec8b1114dc620783b89dc02d9989457a_wpgwmg.webp",
+    "heroTitle": "Photo",
+    "heroTitleItalic": "Administrative",
+    "heroSubtitle": "CIN, passeport, visa, permis de conduire, carte professionnelle — photos administratives conformes aux normes marocaines et internationales, impression immédiate.",
+    "tag": "Photo Administrative",
+    "tagIcon": "fa-solid fa-id-card",
+    "category": "photographie",
+    "variant": "light",
+    "parentPath": "/photographie",
+    "parentLabel": "Services Photographie",
+    "light": {
+      "stamp": {
+        "value": "100%",
+        "label": "Conforme aux normes"
+      },
+      "bullets": [
+        {
+          "icon": "fa-solid fa-bolt",
+          "label": "Impression immédiate"
+        },
+        {
+          "icon": "fa-solid fa-check",
+          "label": "Normes ICAO"
+        },
+        {
+          "icon": "fa-solid fa-calendar",
+          "label": "7j/7 disponible"
+        }
+      ],
+      "subsTitle": "Toutes nos photos administratives",
+      "subs": [
+        {
+          "icon": "fa-solid fa-id-card",
+          "title": "Carte nationale d'identité",
+          "description": "Format et normes CIN marocaine — impression en quelques minutes."
+        },
+        {
+          "icon": "fa-solid fa-passport",
+          "title": "Passeport",
+          "description": "Photos conformes aux normes biométriques ICAO internationales."
+        },
+        {
+          "icon": "fa-solid fa-globe",
+          "title": "Visa & consulat",
+          "description": "Formats spécifiques par pays — nous connaissons les exigences."
+        },
+        {
+          "icon": "fa-solid fa-car",
+          "title": "Permis de conduire",
+          "description": "Photo conforme pour votre demande de permis ou renouvellement."
+        },
+        {
+          "icon": "fa-solid fa-briefcase",
+          "title": "Carte professionnelle",
+          "description": "Photo pour badges, cartes de presse et accréditations."
+        },
+        {
+          "icon": "fa-solid fa-graduation-cap",
+          "title": "Dossiers scolaires",
+          "description": "Photos pour inscriptions, examens et dossiers universitaires."
+        }
+      ],
+      "whyTitle": "Pourquoi nous choisir",
+      "whyItems": [
+        {
+          "icon": "fa-solid fa-check",
+          "title": "Conformité garantie",
+          "description": "Normes biométriques respectées — photos acceptées ou remboursées."
+        },
+        {
+          "icon": "fa-solid fa-bolt",
+          "title": "Impression immédiate",
+          "description": "Votre photo prête en 5 minutes, tirée sur papier photo premium."
+        },
+        {
+          "icon": "fa-solid fa-calendar",
+          "title": "7j/7 disponible",
+          "description": "Sans rendez-vous, aux horaires qui vous conviennent."
+        },
+        {
+          "icon": "fa-solid fa-coins",
+          "title": "Prix compétitif",
+          "description": "Tarif fixe et transparent — pas de frais cachés."
+        }
+      ],
+      "relatedTitle": "Autres services photo",
+      "relatedItems": [
+        {
+          "slug": "photo-portrait",
+          "title": "Portrait Pro",
+          "description": "Photos professionnelles pour votre image",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp"
+        },
+        {
+          "slug": "retouche-photo",
+          "title": "Retouche Photo",
+          "description": "Post-production professionnelle",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734130/ec8b1114dc620783b89dc02d9989457a_wpgwmg.webp"
+        },
+        {
+          "slug": "impression-offset",
+          "title": "Impression Photo",
+          "description": "Tirage photo grand format",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742095/af55122df7f0a7d9ebb2c2b4bbc0e35e_d6bvbc.jpg"
+        }
+      ],
+      "ctaTitle": "Photo administrative",
+      "ctaTitleItalic": "sans attente à Agadir",
+      "ctaSubtitle": "Venez directement — impression en 5 minutes, 7j/7."
+    }
+  },
+  {
+    "slug": "services-studio",
+    "title": "Services Studio Photo Agadir — Location & Équipement",
+    "metaDescription": "Location de studio photo à Agadir avec équipement professionnel. Fond blanc, cyclorama, éclairage studio.",
+    "ogImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775732907/0af33070949a2c81b328349c457cf0b3_ar3ed2.webp",
+    "heroImage": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775732907/0af33070949a2c81b328349c457cf0b3_ar3ed2.webp",
+    "heroTitle": "Services",
+    "heroTitleItalic": "Studio Photo",
+    "heroSubtitle": "Studio photo professionnel à Agadir avec fond blanc, cyclorama et équipement haut de gamme — location à l'heure ou à la journée.",
+    "tag": "Services Studio",
+    "tagIcon": "fa-solid fa-camera-retro",
+    "category": "photographie",
+    "variant": "light",
+    "parentPath": "/photographie",
+    "parentLabel": "Services Photographie",
+    "light": {
+      "stamp": {
+        "value": "120m²",
+        "label": "Surface studio"
+      },
+      "bullets": [
+        {
+          "icon": "fa-solid fa-expand",
+          "label": "Fond blanc cyclorama"
+        },
+        {
+          "icon": "fa-solid fa-lightbulb",
+          "label": "Éclairage pro"
+        },
+        {
+          "icon": "fa-solid fa-wifi",
+          "label": "Accès fibre optique"
+        }
+      ],
+      "subsTitle": "Notre offre studio",
+      "subs": [
+        {
+          "icon": "fa-solid fa-camera-retro",
+          "title": "Location studio fond blanc",
+          "description": "Cyclorama fond blanc 5m x 4m avec éclairage continu ou flash."
+        },
+        {
+          "icon": "fa-solid fa-lightbulb",
+          "title": "Éclairage studio",
+          "description": "Boîtes à lumière, fonds colorés, réflecteurs — mise en place incluse."
+        },
+        {
+          "icon": "fa-solid fa-box",
+          "title": "Table de packshot",
+          "description": "Table de prise de vue spécialisée produit avec fond transparent."
+        },
+        {
+          "icon": "fa-solid fa-users",
+          "title": "Séances portraits groupe",
+          "description": "Studio adapté pour photographies d'équipe jusqu'à 20 personnes."
+        },
+        {
+          "icon": "fa-solid fa-video",
+          "title": "Tournage vidéo studio",
+          "description": "Fond vert (chroma key), fond blanc et éclairage vidéo disponibles."
+        },
+        {
+          "icon": "fa-solid fa-wrench",
+          "title": "Assistance photographique",
+          "description": "Notre équipe reste disponible pour vous assister pendant votre session."
+        }
+      ],
+      "whyTitle": "Pourquoi nous choisir",
+      "whyItems": [
+        {
+          "icon": "fa-solid fa-expand",
+          "title": "Grand espace",
+          "description": "Studio de 120m² — suffisant pour groupes, mode et mobilier."
+        },
+        {
+          "icon": "fa-solid fa-sun",
+          "title": "Éclairage calibré",
+          "description": "Système d'éclairage Godox 1200W calibré pour rendu parfait."
+        },
+        {
+          "icon": "fa-solid fa-wifi",
+          "title": "Fibre optique",
+          "description": "Connexion haut débit pour transfert et stockage en direct."
+        },
+        {
+          "icon": "fa-solid fa-clock",
+          "title": "Horaires flexibles",
+          "description": "Location à l'heure — dès 2h — ou journée complète."
+        }
+      ],
+      "relatedTitle": "Services associés",
+      "relatedItems": [
+        {
+          "slug": "photo-produit",
+          "title": "Photo Produit",
+          "description": "Session packshot en studio",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733266/acca6f901eba77bc1aaa98cf904b30a6_awu7d2.webp"
+        },
+        {
+          "slug": "photo-portrait",
+          "title": "Portrait Pro",
+          "description": "Headshots et portraits corporate",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp"
+        },
+        {
+          "slug": "production-video",
+          "title": "Production Vidéo",
+          "description": "Tournage professionnel",
+          "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775732907/0af33070949a2c81b328349c457cf0b3_ar3ed2.webp"
+        }
+      ],
+      "ctaTitle": "Réservez votre",
+      "ctaTitleItalic": "créneau studio",
+      "ctaSubtitle": "Studio disponible 7j/7 — réservation en ligne ou par WhatsApp."
+    }
+  }
+]

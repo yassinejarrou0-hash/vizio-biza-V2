@@ -1,0 +1,313 @@
+{
+  "settings": {
+    "name": "Studio Vizio Biza",
+    "location": "Agadir, Maroc",
+    "address": "Lqliaa, Agadir, Maroc",
+    "email": "viziobiza.contact@gmail.com",
+    "phone": "+212 617 109 852",
+    "phoneRaw": "+212617109852",
+    "whatsappPhone": "212617109852",
+    "whatsapp": "https://api.whatsapp.com/message/EKCX6WMWCIDVG1?autoload=1&app_absent=0",
+    "hours": "Lun–Sam : 09h–18h",
+    "facebook": "https://www.facebook.com/profile.php?id=61586619881907",
+    "instagram": "https://www.instagram.com/vizio_biza?igsh=MTBrYTZzYTRxb3Jucw%3D%3D",
+    "tiktok": "https://www.tiktok.com/@biza_studio",
+    "logo": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775683434/download_dvaaip.webp",
+    "url": "https://vizio-biza.com"
+  },
+  "landing": {
+    "print": {
+      "title": "Services",
+      "titleLine2": "d'Impression",
+      "videoSrc": "https://res.cloudinary.com/dn51k6ysz/video/upload/v1775737531/12966793_1920_1080_25fps_1_1_knz97l.mp4",
+      "typewriterWords": ["Offset", "Numérique", "Grand Format", "Packaging", "Sublimation", "Stickers & Vinyle"],
+      "btnLabel": "Explorer",
+      "href": "/impression"
+    },
+    "photo": {
+      "title": "Services de",
+      "titleLine2": "Photographie",
+      "videoSrc": "https://res.cloudinary.com/dn51k6ysz/video/upload/v1775738438/13186315-uhd_3840_2160_25fps_1_1_1_1_1_s8txyf.mp4",
+      "typewriterWords": ["Portrait", "Événements", "Produit", "Commerciale", "Administrative", "Retouche Photo"],
+      "btnLabel": "Explorer",
+      "href": "/photographie"
+    }
+  },
+  "contact": {
+    "hoursPrint": "Lun–Sam : 09h00 – 18h00",
+    "hoursPhoto": "Sur rendez-vous, 7j/7",
+    "servicesPrint": ["Impression Photo", "Sublimation & Personnalisation", "Marketing & Publicitaire", "Stickers & Vinyle", "Grand Format", "Technique & Finition", "Design & Création", "Services Studio", "Autre"],
+    "servicesPhoto": ["Photographie Professionnelle", "Mariage & Événements", "Production Vidéo", "Photographie Produit", "Photographie Administrative", "Retouche Photo", "Services Studio", "Autre"]
+  },
+  "print": {
+    "heroSlides": [
+      {
+        "tagIcon": "fa-solid fa-print",
+        "tagLabel": "Impression & Personnalisation · Agadir",
+        "h1Before": "Solutions complètes",
+        "h1Prefix": "d'",
+        "h1Highlight": "impression",
+        "h1After": " professionnelle.",
+        "sub": "Photo, sublimation, marketing, stickers, grand format, finition technique et design — un seul studio pour tous vos supports imprimés. Pour particuliers, entreprises, marques et créateurs.",
+        "mediaType": "image",
+        "mediaSrc": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779378888/slazzer-preview-gvaca_c6cmx8.png",
+        "mediaPoster": "",
+        "mediaAlt": "Studio Vizio Biza impression professionnelle",
+        "contain": true
+      },
+      {
+        "tagIcon": "fa-solid fa-print",
+        "tagLabel": "Impression & Personnalisation · Agadir",
+        "h1Before": "Solutions complètes",
+        "h1Prefix": "d'",
+        "h1Highlight": "impression",
+        "h1After": " professionnelle.",
+        "sub": "Photo, sublimation, marketing, stickers, grand format, finition technique et design — un seul studio pour tous vos supports imprimés. Pour particuliers, entreprises, marques et créateurs.",
+        "mediaType": "video",
+        "mediaSrc": "https://res.cloudinary.com/dn51k6ysz/video/upload/v1775737531/12966793_1920_1080_25fps_1_1_knz97l.mp4",
+        "mediaPoster": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742095/af55122df7f0a7d9ebb2c2b4bbc0e35e_d6bvbc.jpg",
+        "mediaAlt": "",
+        "contain": false
+      },
+      {
+        "tagIcon": "fa-solid fa-shirt",
+        "tagLabel": "Sublimation & Personnalisation · Agadir",
+        "h1Before": "Textiles & objets",
+        "h1Prefix": "",
+        "h1Highlight": "personnalisés",
+        "h1After": " sur mesure.",
+        "sub": "Mugs, t-shirts, coussins, photos sur toile — donnez vie à vos créations avec notre atelier de sublimation et personnalisation haut de gamme.",
+        "mediaType": "image",
+        "mediaSrc": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775776465/%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A8%D8%AF%D9%88%D9%86_%D8%B9%D9%86%D9%88%D8%A7%D9%86_11_xrxfvs.webp",
+        "mediaPoster": "",
+        "mediaAlt": "Sublimation et objets personnalisés",
+        "contain": false
+      },
+      {
+        "tagIcon": "fa-solid fa-square-poll-vertical",
+        "tagLabel": "Grand Format & Signalétique · Agadir",
+        "h1Before": "Bâches, panneaux &",
+        "h1Prefix": "",
+        "h1Highlight": "signalétique",
+        "h1After": " impactante.",
+        "sub": "Roll-up, bâches publicitaires, kakémonos, enseignes — des solutions grand format pour renforcer votre visibilité et marquer les esprits.",
+        "mediaType": "image",
+        "mediaSrc": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775741929/dd4d08ead0a228442344a5b87ba5830d_ugdigw.jpg",
+        "mediaPoster": "",
+        "mediaAlt": "Grand format et bâches publicitaires",
+        "contain": false
+      }
+    ],
+    "featured3": [
+      { "href": "/services/impression-numerique", "img": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775776465/%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A8%D8%AF%D9%88%D9%86_%D8%B9%D9%86%D9%88%D8%A7%D9%86_11_xrxfvs.webp", "alt": "Cartes de visite", "cat": "Marketing", "name": "Cartes de Visite" },
+      { "href": "/services/sublimation", "img": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775774166/%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A8%D8%AF%D9%88%D9%86_%D8%B9%D9%86%D9%88%D8%A7%D9%86_8_ha8x5v.webp", "alt": "Sublimation", "cat": "Personnalisation", "name": "Sublimation & Objets" },
+      { "href": "/services/grand-format", "img": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775741929/dd4d08ead0a228442344a5b87ba5830d_ugdigw.jpg", "alt": "Grand Format", "cat": "Grand Format", "name": "Bâches & Panneaux" }
+    ],
+    "categories": [
+      { "href": "/services/impression-offset", "img": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742095/af55122df7f0a7d9ebb2c2b4bbc0e35e_d6bvbc.jpg", "title": "Impression Photo", "sub": "Tous formats" },
+      { "href": "/services/sublimation", "img": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775774166/%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A8%D8%AF%D9%88%D9%86_%D8%B9%D9%86%D9%88%D8%A7%D9%86_8_ha8x5v.webp", "title": "Sublimation", "sub": "Objets personnalisés" },
+      { "href": "/services/impression-numerique", "img": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742300/ac9cb72b62aff6de569bd791e075cc4e_qp32ou.jpg", "title": "Marketing", "sub": "Flyers, brochures…" },
+      { "href": "/services/stickers-vinyle", "img": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg", "title": "Stickers & Vinyle", "sub": "Habillage vitrines" },
+      { "href": "/services/grand-format", "img": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775741929/dd4d08ead0a228442344a5b87ba5830d_ugdigw.jpg", "title": "Grand Format", "sub": "Bâches & canvas" },
+      { "href": "/services/finition-personnalisee", "img": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775774420/%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A8%D8%AF%D9%88%D9%86_%D8%B9%D9%86%D9%88%D8%A7%D9%86_9_az5jcb.webp", "title": "Technique & Finition", "sub": "DTF · Plastification" }
+    ],
+    "promoStrip": [
+      { "icon": "fa-solid fa-medal", "title": "Qualité professionnelle", "sub": "Standards premium" },
+      { "icon": "fa-solid fa-wand-magic-sparkles", "title": "Créativité moderne", "sub": "Direction artistique" },
+      { "icon": "fa-solid fa-sliders", "title": "Solutions personnalisées", "sub": "Sur mesure" },
+      { "icon": "fa-solid fa-truck-fast", "title": "Livraison rapide", "sub": "Et efficace" }
+    ],
+    "products": [
+      { "badgeKind": "gold", "badgeLabel": "Tendance", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775774420/%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A8%D8%AF%D9%88%D9%86_%D8%B9%D9%86%D9%88%D8%A7%D9%86_9_az5jcb.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775774166/%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A8%D8%AF%D9%88%D9%86_%D8%B9%D9%86%D9%88%D8%A7%D9%86_8_ha8x5v.webp", "cat": "Sublimation", "name": "Hoodie Personnalisé", "alt": "Hoodie personnalisé", "price": "230 dh" },
+      { "badgeKind": "hot", "badgeLabel": "Hot", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775774166/%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A8%D8%AF%D9%88%D9%86_%D8%B9%D9%86%D9%88%D8%A7%D9%86_8_ha8x5v.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775774420/%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A8%D8%AF%D9%88%D9%86_%D8%B9%D9%86%D9%88%D8%A7%D9%86_9_az5jcb.webp", "cat": "Sublimation", "name": "Mug Personnalisé", "alt": "Mug personnalisé", "price": "80 dh" },
+      { "badgeKind": "hot", "badgeLabel": "Best-seller", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775776465/%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A8%D8%AF%D9%88%D9%86_%D8%B9%D9%86%D9%88%D8%A7%D9%86_11_xrxfvs.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775742476/441ec6acd0ca332a83a1d9ba5540bf05_zas10i.jpg", "cat": "Identité visuelle", "name": "Cartes de Visite", "alt": "Cartes de visite", "price": "170 dh" },
+      { "badgeKind": "hot", "badgeLabel": "Populaire", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779380887/Ycpnh00aVIffNyFkVd5KOuBNIS6RFNiVsOjXRyh0_rpwdqy.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779380887/Ycpnh00aVIffNyFkVd5KOuBNIS6RFNiVsOjXRyh0_rpwdqy.webp", "cat": "Signalétique", "name": "Design Vitrine", "alt": "Design vitrine", "price": "800 dh" },
+      { "badgeKind": "", "badgeLabel": "", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779381087/XKsc6S4JaRuQiXmpDZAH1R6Y9uz2NEH1goQlCTbR_ls18dd.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779381087/XKsc6S4JaRuQiXmpDZAH1R6Y9uz2NEH1goQlCTbR_ls18dd.webp", "cat": "Personnalisation", "name": "Menu Personnalisé", "alt": "Menu personnalisé", "price": "200 dh" },
+      { "badgeKind": "", "badgeLabel": "", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779381095/ZxPVrHTDhJuzUqa837UWkzkIAudPItt1C0iqJSnj_s8h1ky.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779381095/ZxPVrHTDhJuzUqa837UWkzkIAudPItt1C0iqJSnj_s8h1ky.webp", "cat": "Stickers & Vinyle", "name": "Marquage Voiture", "alt": "Marquage des voitures", "price": "200 dh" },
+      { "badgeKind": "", "badgeLabel": "", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779381226/WUzB82NIAly1m8qSItwZmie3lvvy35DiNB4jHUul_dpu0cx.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779381226/WUzB82NIAly1m8qSItwZmie3lvvy35DiNB4jHUul_dpu0cx.webp", "cat": "Signalétique", "name": "Plaque Publicitaire", "alt": "Plaque publicitaire", "price": "180 dh" },
+      { "badgeKind": "new", "badgeLabel": "Nouveau", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779381202/lTBgZ42po04C2lwKKnIUgkEv4vDtcoCKDMJZaZDF_satufh.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779381202/lTBgZ42po04C2lwKKnIUgkEv4vDtcoCKDMJZaZDF_satufh.webp", "cat": "Personnalisation", "name": "Pochette de Téléphone", "alt": "Pochette de téléphone", "price": "159 dh" },
+      { "badgeKind": "", "badgeLabel": "", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779381157/A8zHAYMtJ5G0SgQ6IH9lXPndMnvzVAmhs6YeUHKR_vwnmrc.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779381157/A8zHAYMtJ5G0SgQ6IH9lXPndMnvzVAmhs6YeUHKR_vwnmrc.webp", "cat": "Sublimation", "name": "Bouteille Personnalisée", "alt": "Bouteille personnalisée", "price": "200 dh" },
+      { "badgeKind": "gold", "badgeLabel": "Premium", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779381142/d8GihbComu6fSidv7KV2bJlxQk7PJ6y3yKsuvyQk_i9brlt.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779381142/d8GihbComu6fSidv7KV2bJlxQk7PJ6y3yKsuvyQk_i9brlt.webp", "cat": "Trophées", "name": "Trophée Laser", "alt": "Trophée laser", "price": "220 dh" },
+      { "badgeKind": "", "badgeLabel": "", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779381124/4JbqnBH8exakOu5J3sAHKrHCJfuxFyaKIMUeE7Rh_jwem11.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779381124/4JbqnBH8exakOu5J3sAHKrHCJfuxFyaKIMUeE7Rh_jwem11.webp", "cat": "Personnalisation", "name": "Tote Bag", "alt": "Tote bag", "price": "60 dh" },
+      { "badgeKind": "pro", "badgeLabel": "Pro", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779381111/hVC10Zgfy8CZpgGLvmKX25QyXcm2VcZZ0tk0erfL_baypkd.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779381111/hVC10Zgfy8CZpgGLvmKX25QyXcm2VcZZ0tk0erfL_baypkd.webp", "cat": "Signalétique", "name": "Roll-up", "alt": "Roll up", "price": "500 dh" },
+      { "badgeKind": "", "badgeLabel": "", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779381105/rbBgTXBeDBhjGbrJDfbad5J04NvUj7D2vYyxQddK_kov7t1.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779381105/rbBgTXBeDBhjGbrJDfbad5J04NvUj7D2vYyxQddK_kov7t1.webp", "cat": "Grand Format", "name": "Impression Bâche", "alt": "Impression bâche", "price": "130 dh" }
+    ],
+    "bestsellers": [
+      {
+        "tagIcon": "fa-solid fa-fire",
+        "tagLabel": "Meilleures Ventes · Studio Vizio Biza",
+        "h1Before": "Nos créations",
+        "h1Prefix": "",
+        "h1Highlight": "préférées",
+        "h1After": " des clients.",
+        "sub": "Découvrez la sélection des produits personnalisés les plus demandés — sublimation, signalétique et marketing.",
+        "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779465460/wd-bestsellers-slide-1_udbqm4.png",
+        "ctaLabel": "Voir les meilleures ventes",
+        "ctaHref": "#products"
+      },
+      {
+        "tagIcon": "fa-solid fa-wand-magic-sparkles",
+        "tagLabel": "Nouveautés · Studio Vizio Biza",
+        "h1Before": "Nouvelles",
+        "h1Prefix": "",
+        "h1Highlight": "créations",
+        "h1After": " à découvrir.",
+        "sub": "Une nouvelle gamme de produits personnalisés conçue pour faire la différence.",
+        "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779465492/wd-bestsellers-slide-2_momhgm.png",
+        "ctaLabel": "Découvrir",
+        "ctaHref": "#products"
+      }
+    ],
+    "process": [
+      { "icon": "fa-solid fa-comments", "title": "Contact & Brief", "desc": "Prise de contact et analyse de votre besoin." },
+      { "icon": "fa-solid fa-pen-ruler", "title": "Planification", "desc": "Cahier des charges, BAT et organisation logistique." },
+      { "icon": "fa-solid fa-print", "title": "Production", "desc": "Impression dans nos ateliers avec contrôle qualité." },
+      { "icon": "fa-solid fa-truck-fast", "title": "Retouche & Livraison", "desc": "Finition, optimisation et livraison soignée." }
+    ],
+    "reviews": [
+      { "name": "Khalid Amrani", "detail": "Directeur Commercial", "avatar": "KA", "quote": "Studio Vizio Biza a transformé notre vision en réalité. L'impression de nos catalogues est d'une netteté absolue — couleurs parfaitement calibrées. Nos clients ont immédiatement remarqué la différence.", "rating": 5 },
+      { "name": "Nadia Benali", "detail": "Cosmétiques Nature", "avatar": "NB", "quote": "Les T-shirts personnalisés pour notre événement ont fait sensation. Sublimation impeccable, livraison dans les délais — un vrai partenaire de confiance.", "rating": 5 },
+      { "name": "Omar Moussaoui", "detail": "Responsable Événements", "avatar": "OM", "quote": "Délais tenus et résultat qui dépasse les attentes. Nos roll-up et bâches pour l'événement ont attiré tous les regards. L'équipe a su adapter le format avec une grande réactivité.", "rating": 5 },
+      { "name": "Sara El Fassi", "detail": "Cabinet El Fassi", "avatar": "SE", "quote": "2 000 brochures avec finition premium et livraison en 48h. Impression au niveau des grandes imprimeries européennes. Je recommande sans hésitation.", "rating": 5 },
+      { "name": "Hassan Tazi", "detail": "Directeur Marketing", "avatar": "HT", "quote": "Partenaire de confiance depuis 3 ans. La régularité de la qualité est impressionnante — chaque commande traitée avec le même soin. Notre studio attitré.", "rating": 5 }
+    ],
+    "about": {
+      "kicker": "À propos de Studio Vizio Biza",
+      "titleBefore": "Un studio,",
+      "titleHighlight": "toutes les solutions",
+      "p1": "Studio Vizio Biza est un studio professionnel spécialisé dans la photographie, la production vidéo et l'impression professionnelle. Nous proposons des solutions complètes adaptées aux particuliers, entreprises, marques et créateurs de contenu.",
+      "p2": "Notre direction artistique repose sur un style moderne, une approche professionnelle, une créativité sur mesure et une qualité premium.",
+      "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775732879/8136be8f8dc8f6806ec245bb53eca021_1_xxcpzr.webp"
+    }
+  },
+  "photo": {
+    "heroSlides": [
+      {
+        "tagIcon": "fa-solid fa-camera",
+        "tagLabel": "Photographie & Production Vidéo · Agadir",
+        "h1Before": "Production visuelle",
+        "h1Prefix": "",
+        "h1Highlight": "professionnelle",
+        "h1After": " & créative.",
+        "sub": "Photographie pro, mariage & événements, production vidéo, photo administrative et retouche — un studio complet pour particuliers, entreprises, marques et créateurs de contenu.",
+        "mediaType": "image",
+        "mediaSrc": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775732907/0af33070949a2c81b328349c457cf0b3_ar3ed2.webp",
+        "mediaPoster": "",
+        "mediaAlt": "Studio Vizio Biza Photographie Agadir",
+        "contain": false
+      },
+      {
+        "tagIcon": "fa-solid fa-user",
+        "tagLabel": "Portrait & Photographie Professionnelle · Agadir",
+        "h1Before": "Portraits qui",
+        "h1Prefix": "",
+        "h1Highlight": "racontent",
+        "h1After": " votre histoire.",
+        "sub": "Portrait professionnel, corporate, artistique — des clichés qui vous ressemblent, réalisés dans notre studio moderne à Agadir avec une direction artistique soignée.",
+        "mediaType": "image",
+        "mediaSrc": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp",
+        "mediaPoster": "",
+        "mediaAlt": "Portrait professionnel Agadir",
+        "contain": false
+      },
+      {
+        "tagIcon": "fa-solid fa-ring",
+        "tagLabel": "Mariage & Événements · Agadir",
+        "h1Before": "Chaque instant de",
+        "h1Prefix": "votre ",
+        "h1Highlight": "mariage",
+        "h1After": " immortalisé.",
+        "sub": "Reportage photo et vidéo, mariage, fiançailles, anniversaires — des souvenirs inoubliables capturés avec passion, élégance et expertise par notre équipe dédiée.",
+        "mediaType": "image",
+        "mediaSrc": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733518/4bf58d831cb1a3375ba73a36506a1dc2_lgvant.webp",
+        "mediaPoster": "",
+        "mediaAlt": "Mariage et événements Agadir",
+        "contain": false
+      }
+    ],
+    "featured3": [
+      { "href": "/services/photo-portrait", "img": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp", "alt": "Portrait Pro", "cat": "Photographie", "name": "Portrait Professionnel" },
+      { "href": "/services/photo-evenements", "img": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733518/4bf58d831cb1a3375ba73a36506a1dc2_lgvant.webp", "alt": "Mariage", "cat": "Événements", "name": "Mariage & Événements" },
+      { "href": "/services/production-video", "img": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775732907/0af33070949a2c81b328349c457cf0b3_ar3ed2.webp", "alt": "Production Vidéo", "cat": "Vidéo", "name": "Production Vidéo" }
+    ],
+    "categories": [
+      { "href": "/services/photo-portrait", "img": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp", "title": "Portrait Pro", "sub": "Corporate & lifestyle" },
+      { "href": "/services/photo-evenements", "img": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733518/4bf58d831cb1a3375ba73a36506a1dc2_lgvant.webp", "title": "Mariage & Événements", "sub": "Photo & vidéo" },
+      { "href": "/services/production-video", "img": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775732907/0af33070949a2c81b328349c457cf0b3_ar3ed2.webp", "title": "Production Vidéo", "sub": "Pubs & réseaux sociaux" },
+      { "href": "/services/photo-produit", "img": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733266/acca6f901eba77bc1aaa98cf904b30a6_awu7d2.webp", "title": "Photo Produit", "sub": "E-commerce & branding" },
+      { "href": "/services/photo-administrative", "img": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734130/ec8b1114dc620783b89dc02d9989457a_wpgwmg.webp", "title": "Administrative", "sub": "CIN, Passeport, Visa" },
+      { "href": "/services/retouche-photo", "img": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734130/ec8b1114dc620783b89dc02d9989457a_wpgwmg.webp", "title": "Retouche", "sub": "Lightroom & Photoshop" }
+    ],
+    "promoStrip": [
+      { "icon": "fa-solid fa-medal", "title": "Qualité professionnelle", "sub": "Standards premium" },
+      { "icon": "fa-solid fa-palette", "title": "Créativité moderne", "sub": "Direction artistique" },
+      { "icon": "fa-solid fa-sliders", "title": "Solutions personnalisées", "sub": "Sur mesure" },
+      { "icon": "fa-solid fa-bolt", "title": "Livraison rapide", "sub": "Et efficace" }
+    ],
+    "products": [
+      { "tab": "all", "badgeKind": "hot", "badgeLabel": "Best-seller", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775732907/0af33070949a2c81b328349c457cf0b3_ar3ed2.webp", "cat": "Photographie", "name": "Portrait Professionnel", "alt": "Portrait Pro" },
+      { "tab": "all", "badgeKind": "gold", "badgeLabel": "Tendance", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733518/4bf58d831cb1a3375ba73a36506a1dc2_lgvant.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp", "cat": "Événements", "name": "Mariage & Fiançailles", "alt": "Mariage" },
+      { "tab": "all", "badgeKind": "new", "badgeLabel": "Nouveau", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733266/acca6f901eba77bc1aaa98cf904b30a6_awu7d2.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775732907/0af33070949a2c81b328349c457cf0b3_ar3ed2.webp", "cat": "Produit", "name": "Photographie Produit", "alt": "Photo Produit" },
+      { "tab": "all", "badgeKind": "pro", "badgeLabel": "Express", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734130/ec8b1114dc620783b89dc02d9989457a_wpgwmg.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp", "cat": "Administrative", "name": "Photo CIN & Passeport", "alt": "Administrative" },
+      { "tab": "events", "badgeKind": "hot", "badgeLabel": "Populaire", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733518/4bf58d831cb1a3375ba73a36506a1dc2_lgvant.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp", "cat": "Mariage", "name": "Couverture Mariage Complète", "alt": "Mariage" },
+      { "tab": "events", "badgeKind": "", "badgeLabel": "", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733518/4bf58d831cb1a3375ba73a36506a1dc2_lgvant.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp", "cat": "Événements", "name": "Fiançailles & Henna", "alt": "Fiançailles" },
+      { "tab": "events", "badgeKind": "pro", "badgeLabel": "Business", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733518/4bf58d831cb1a3375ba73a36506a1dc2_lgvant.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775732907/0af33070949a2c81b328349c457cf0b3_ar3ed2.webp", "cat": "Corporate", "name": "Événements Corporate", "alt": "Corporate" },
+      { "tab": "events", "badgeKind": "", "badgeLabel": "", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733518/4bf58d831cb1a3375ba73a36506a1dc2_lgvant.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp", "cat": "Fêtes", "name": "Anniversaires & Célébrations", "alt": "Anniversaire" },
+      { "tab": "video", "badgeKind": "gold", "badgeLabel": "4K", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775732907/0af33070949a2c81b328349c457cf0b3_ar3ed2.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp", "cat": "Corporate", "name": "Film Corporate 4K", "alt": "Corporate Video" },
+      { "tab": "video", "badgeKind": "hot", "badgeLabel": "Tendance", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775732907/0af33070949a2c81b328349c457cf0b3_ar3ed2.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733518/4bf58d831cb1a3375ba73a36506a1dc2_lgvant.webp", "cat": "Publicité", "name": "Spot Publicitaire", "alt": "Pub" },
+      { "tab": "video", "badgeKind": "", "badgeLabel": "", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775732907/0af33070949a2c81b328349c457cf0b3_ar3ed2.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733266/acca6f901eba77bc1aaa98cf904b30a6_awu7d2.webp", "cat": "Social Media", "name": "Contenu Réseaux Sociaux", "alt": "Réseaux sociaux" },
+      { "tab": "video", "badgeKind": "new", "badgeLabel": "Aérien", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775732907/0af33070949a2c81b328349c457cf0b3_ar3ed2.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp", "cat": "Drone", "name": "Prise de vue Aérienne", "alt": "Drone" },
+      { "tab": "admin", "badgeKind": "hot", "badgeLabel": "Express", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734130/ec8b1114dc620783b89dc02d9989457a_wpgwmg.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp", "cat": "CIN", "name": "Photo Carte Nationale", "alt": "CIN" },
+      { "tab": "admin", "badgeKind": "", "badgeLabel": "", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734130/ec8b1114dc620783b89dc02d9989457a_wpgwmg.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp", "cat": "Passeport", "name": "Photo Passeport Biométrique", "alt": "Passeport" },
+      { "tab": "admin", "badgeKind": "", "badgeLabel": "", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734130/ec8b1114dc620783b89dc02d9989457a_wpgwmg.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp", "cat": "Visa", "name": "Photo Visa & Consulat", "alt": "Visa" },
+      { "tab": "admin", "badgeKind": "", "badgeLabel": "", "front": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775734130/ec8b1114dc620783b89dc02d9989457a_wpgwmg.webp", "back": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775733557/bdab2d7ac3d6c072851d866a16edbac8_ph4ntf.webp", "cat": "Permis", "name": "Photo Permis de Conduire", "alt": "Permis" }
+    ],
+    "bestsellers": [
+      {
+        "tagIcon": "fa-solid fa-fire",
+        "tagLabel": "Séances les plus demandées · Studio Vizio Biza",
+        "h1Before": "Nos séances",
+        "h1Prefix": "",
+        "h1Highlight": "préférées",
+        "h1After": " des clients.",
+        "sub": "Portraits, mariages, séances corporate — découvrez les prestations qui font notre réputation.",
+        "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779465460/wd-bestsellers-slide-1_udbqm4.png",
+        "ctaLabel": "Voir le catalogue",
+        "ctaHref": "#products"
+      },
+      {
+        "tagIcon": "fa-solid fa-wand-magic-sparkles",
+        "tagLabel": "Nouveautés · Production Vidéo",
+        "h1Before": "Nouvelles",
+        "h1Prefix": "",
+        "h1Highlight": "formules",
+        "h1After": " à découvrir.",
+        "sub": "Vidéos publicitaires, contenus pour réseaux sociaux et nouvelles séances photo — pensées pour vous démarquer.",
+        "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1779465492/wd-bestsellers-slide-2_momhgm.png",
+        "ctaLabel": "Découvrir",
+        "ctaHref": "#products"
+      }
+    ],
+    "process": [
+      { "icon": "fa-solid fa-phone", "title": "Prise de contact", "desc": "Décrivez votre projet — WhatsApp, email ou téléphone." },
+      { "icon": "fa-solid fa-calendar", "title": "Réservation", "desc": "Choisissez votre créneau sur rendez-vous." },
+      { "icon": "fa-solid fa-camera", "title": "Séance", "desc": "Direction artistique et prise de vue professionnelle." },
+      { "icon": "fa-solid fa-paper-plane", "title": "Livraison", "desc": "Photos retouchées livrées dans les délais convenus." }
+    ],
+    "reviews": [
+      { "name": "Samira Idrissi", "detail": "E-commerçante", "avatar": "SI", "quote": "Séance photo produit pour notre e-commerce — des images qui font vraiment vendre. Le photographe a parfaitement capturé l'essence de nos articles. Délai de livraison rapide.", "rating": 5 },
+      { "name": "Mohammed Tazi", "detail": "Client", "avatar": "MT", "quote": "Photos administratives pour passeport — service impeccable, résultat en quelques minutes. Personnel accueillant et professionnel. Je recommande vivement.", "rating": 5 },
+      { "name": "Leila Bensouda", "detail": "DRH, Cabinet Conseil", "avatar": "LB", "quote": "Portrait corporate pour notre équipe dirigeante. Ambiance professionnelle, direction artistique excellente. Résultats qui reflètent parfaitement l'image de notre entreprise.", "rating": 5 },
+      { "name": "Aicha & Omar", "detail": "Mariés, Agadir", "avatar": "AO", "quote": "Couverture photo et vidéo de notre mariage à Agadir — un souvenir inoubliable. Le studio a capturé chaque moment avec sensibilité et créativité.", "rating": 5 },
+      { "name": "Rachid Berrada", "detail": "Fondateur, StartupMA", "avatar": "RB", "quote": "Production vidéo pour notre lancement de produit. Montage professionnel, musique parfaitement synchronisée. La vidéo a cartonné sur nos réseaux sociaux.", "rating": 5 }
+    ],
+    "about": {
+      "kicker": "À propos de Studio Vizio Biza",
+      "titleBefore": "Un studio,",
+      "titleHighlight": "toutes les solutions",
+      "p1": "Studio Vizio Biza est un studio professionnel spécialisé dans la photographie, la production vidéo et l'impression professionnelle. Nous proposons des solutions complètes adaptées aux particuliers, entreprises, marques et créateurs de contenu.",
+      "p2": "Notre direction artistique repose sur un style moderne, une approche professionnelle, une créativité sur mesure et une qualité premium.",
+      "image": "https://res.cloudinary.com/dn51k6ysz/image/upload/v1775732879/8136be8f8dc8f6806ec245bb53eca021_1_xxcpzr.webp"
+    }
+  }
+}
