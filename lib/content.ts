@@ -26,8 +26,11 @@ export async function readContent(): Promise<SiteContent> {
 export async function writeContent(next: SiteContent): Promise<void> {
   const redis = getRedis();
   if (redis) {
+    console.log("[writeContent] writing to KV");
     await redis.set(KV_KEY, next);
+    console.log("[writeContent] KV write OK");
     return;
   }
+  console.warn("[writeContent] KV env vars missing — writing to filesystem (ephemeral on Vercel!)");
   await fs.writeFile(CONTENT_PATH, JSON.stringify(next, null, 2), "utf8");
 }
