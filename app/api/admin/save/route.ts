@@ -2,7 +2,7 @@ import { NextResponse, type NextRequest } from "next/server";
 import { revalidatePath } from "next/cache";
 import { isAuthed } from "@/lib/auth";
 import { readContent, writeContent } from "@/lib/content";
-import { writeServices, services as currentServices } from "@/lib/services";
+import { writeServices, readServices } from "@/lib/services";
 import type { SiteContent, ServiceData } from "@/lib/content-types";
 
 type Section =
@@ -52,13 +52,13 @@ export async function POST(request: NextRequest) {
       if (!body.slug) {
         return NextResponse.json({ ok: false, error: "missing_slug" }, { status: 400 });
       }
-      const list = [...currentServices];
+      const list = [...(await readServices())];
       const idx = list.findIndex((x) => x.slug === body.slug);
       if (idx < 0) {
         return NextResponse.json({ ok: false, error: "service_not_found" }, { status: 404 });
       }
       list[idx] = data as ServiceData;
-      writeServices(list);
+      await writeServices(list);
       revalidatePath(`/services/${body.slug}`);
       revalidatePath("/impression");
       revalidatePath("/photographie");
@@ -66,7 +66,7 @@ export async function POST(request: NextRequest) {
     }
 
     if (section === "services-list") {
-      writeServices(data as ServiceData[]);
+      await writeServices(data as ServiceData[]);
       revalidatePath("/impression");
       revalidatePath("/photographie");
       return NextResponse.json({ ok: true });

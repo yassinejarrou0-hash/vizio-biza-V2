@@ -1,3 +1,4 @@
+import { Redis } from "@upstash/redis";
 import { readFileSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import type { ServiceData } from "./content-types";
@@ -15,8 +16,16 @@ export type {
 } from "./content-types";
 
 const SERVICES_PATH = path.join(process.cwd(), "content", "services.json");
+const KV_KEY = "vb:services";
 
-function loadServices(): ServiceData[] {
+function getRedis(): Redis | null {
+  const url = process.env.UPSTASH_REDIS_REST_KV_REST_API_URL;
+  const token = process.env.UPSTASH_REDIS_REST_KV_REST_API_TOKEN;
+  if (!url || !token) return null;
+  return new Redis({ url, token });
+}
+
+function loadServicesSync(): ServiceData[] {
   try {
     return JSON.parse(readFileSync(SERVICES_PATH, "utf8")) as ServiceData[];
   } catch (err) {
@@ -25,12 +34,28 @@ function loadServices(): ServiceData[] {
   }
 }
 
-export const services: ServiceData[] = loadServices();
+// Sync export used by generateStaticParams at build time
+export const services: ServiceData[] = loadServicesSync();
 
-export function getServiceBySlug(slug: string): ServiceData | undefined {
-  return loadServices().find((s) => s.slug === slug);
+export async function readServices(): Promise<ServiceData[]> {
+  const redis = getRedis();
+  if (redis) {
+    const data = await redis.get<ServiceData[]>(KV_KEY);
+    if (data) return data;
+  }
+  return loadServicesSync();
 }
 
-export function writeServices(next: ServiceData[]): void {
+export async function getServiceBySlug(slug: string): Promise<ServiceData | undefined> {
+  const all = await readServices();
+  return all.find((s) => s.slug === slug);
+}
+
+export async function writeServices(next: ServiceData[]): Promise<void> {
+  const redis = getRedis();
+  if (redis) {
+    await redis.set(KV_KEY, next);
+    return;
+  }
   writeFileSync(SERVICES_PATH, JSON.stringify(next, null, 2), "utf8");
 }
